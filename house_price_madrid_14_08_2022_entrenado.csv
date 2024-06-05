@@ -1,0 +1,1599 @@
+,house_type,house_type_2,rooms,m2,elevator,garage,neighborhood,district,price,prediction_label,error
+1590,planta 1,interior,2,65.0,True,False,Goya,barrio de salamanca,399000,418059.9,-19059.900000000023
+8877,chalet,exterior,5,270.0,False,True,Chalet adosado en Conde Orgaz-Piovera,hortaleza,1300000,1429850.0,-129850.0
+11379,planta 1,exterior,2,90.0,False,False,San Diego,puente-de-vallecas,162000,149684.0,12316.0
+31,planta 2,exterior,3,72.0,True,False,Delicias,Arganzuela,310000,318012.5,-8012.5
+9556,planta 2,exterior,3,149.0,True,True,Conde Orgaz-Piovera,hortaleza,790000,939883.8333333333,-149883.83333333326
+793,planta 2,exterior,3,100.0,True,False,Alameda de Osuna,barajas,345000,415505.83,-70505.83000000002
+14533,planta 9,exterior,2,95.0,True,False,San Fermín,usera,185000,211760.98,-26760.98000000001
+1370,bajo,interior,1,37.0,True,False,Castellana,barrio de salamanca,219000,330814.0,-111814.0
+1043,planta 1,interior,2,106.0,True,True,Lista,barrio de salamanca,632000,601177.6190476189,30822.380952381063
+10003,planta 1,exterior,3,75.0,False,False,Puerta del Ángel,latina,149500,163737.90985347985,-14237.909853479854
+2590,planta 7,exterior,3,201.0,True,False,Goya,barrio de salamanca,2060000,1719100.0,340900.0
+10073,planta 2,interior,2,50.0,False,True,Puerta del Ángel,latina,135000,162256.99,-27256.98999999999
+7983,bajo,exterior,1,52.0,True,False,Pueblo Nuevo,ciudad lineal,189000,168271.93,20728.070000000007
+1724,planta 3,interior,2,80.0,True,False,Recoletos,barrio de salamanca,735100,693340.3333333333,41759.666666666744
+5504,bajo,exterior,3,189.0,True,True,Nueva España,chamartin,825000,1079960.0,-254960.0
+10200,planta 7,exterior,3,95.0,True,False,Águilas,latina,225000,228974.99,-3974.9899999999907
+11072,planta 4,exterior,2,168.0,True,True,Horcajo,moratalaz,420000,572412.0,-152412.0
+10250,bajo,exterior,3,83.0,False,False,Puerta del Ángel,latina,259999,222678.06528571426,37320.934714285744
+7160,planta 1,exterior,4,126.0,False,True,Costillares,ciudad lineal,439000,548490.0,-109490.0
+14285,bajo,interior,1,29.0,False,False,Bellas Vistas,tetuan,124000,118618.98916666668,5381.010833333319
+5774,chalet,exterior,5,480.0,False,True,Chalet pareado en El Viso,chamartin,4500000,3985740.0,514260.0
+13046,planta 3,exterior,2,70.0,True,False,Simancas,san-blas,167999,197868.0,-29869.0
+12572,planta 7,exterior,3,127.0,True,True,Adelfas,retiro,610000,673390.7466666666,-63390.746666666586
+6449,bajo,interior,2,71.0,True,False,Nuevos Ministerios-Ríos Rosas,chamberi,450000,352459.99,97540.01000000001
+1191,entreplanta,exterior,6,211.0,True,False,Recoletos,barrio de salamanca,1150000,1419990.0,-269990.0
+5064,planta 4,exterior,3,94.0,True,False,Ciudad Jardín,chamartin,429000,436996.2,-7996.200000000012
+2265,planta 1,exterior,2,106.0,True,False,Lista,barrio de salamanca,595000,788509.1904761904,-193509.19047619042
+4873,planta 3,exterior,5,197.0,True,False,El Viso,chamartin,990000,1225628.0,-235628.0
+12956,planta 1,exterior,2,85.0,True,True,Rejas,san-blas,330000,325391.58,4608.419999999984
+5367,planta 3,exterior,6,360.0,True,True,Dúplex en Castilla,chamartin,1950000,1643870.7,306129.30000000005
+2740,bajo,exterior,2,55.0,False,False,Opañel,carabanchel,115000,115000.0,0.0
+14397,planta 3,exterior,3,76.0,False,False,Pradolongo,usera,140000,210060.75,-70060.75
+8892,planta 1,exterior,2,106.0,True,True,Sanchinarro,hortaleza,470000,457549.98,12450.020000000019
+9783,bajo,exterior,4,145.0,False,False,Puerta del Ángel,latina,260000,378140.0,-118140.0
+14344,planta 1,exterior,2,97.0,True,True,Berruguete,tetuan,290000,334918.00683333335,-44918.00683333335
+12760,planta 2,exterior,2,103.0,True,True,Rosas,san-blas,329000,317515.5,11484.5
+2030,planta 1,interior,1,42.0,True,False,Goya,barrio de salamanca,250000,266443.94,-16443.940000000002
+10650,chalet,exterior,5,448.0,False,True,Chalet adosado en Ciudad Universitaria,moncloa,1200000,1062502.0,137498.0
+1131,planta 7,exterior,3,81.0,True,False,Guindalera,barrio de salamanca,379000,439299.0,-60299.0
+15644,bajo,exterior,3,60.0,False,False,San Cristóbal,villaverde,141000,107090.70723809523,33909.29276190477
+11700,planta 1,exterior,3,107.0,False,False,Entrevías,puente-de-vallecas,160000,177217.63,-17217.630000000005
+1059,planta 3,exterior,4,203.0,True,False,Guindalera,barrio de salamanca,1195000,874741.39,320258.61
+13601,bajo,exterior,3,65.0,False,False,Ventilla-Almenara,tetuan,205000,207296.80952380953,-2296.8095238095266
+8576,planta 1,exterior,3,101.0,True,False,Tres Olivos - Valverde,fuencarral,285000,343660.31333333335,-58660.31333333335
+5991,planta 6,exterior,4,257.0,True,False,Vallehermoso,chamberi,1050000,1097599.96,-47599.95999999996
+11575,planta 5,exterior,2,61.0,False,False,Numancia,puente-de-vallecas,119000,134987.99,-15987.98999999999
+3484,planta 3,exterior,3,117.0,True,False,San Isidro,carabanchel,427000,421118.98,5881.020000000019
+7552,planta 4,exterior,4,290.0,True,True,Dúplex en San Juan Bautista,ciudad lineal,995000,1401325.966,-406325.966
+14588,planta 4,exterior,3,75.0,False,False,San Fermín,usera,167000,163180.95,3819.0499999999884
+11961,planta 4,exterior,3,66.0,False,True,San Diego,puente-de-vallecas,139900,149692.75,-9792.75
+490,planta 1,exterior,2,114.0,True,True,Imperial,Arganzuela,613000,560637.928,52362.072000000044
+14435,planta 3,exterior,3,160.0,True,True,Orcasitas,usera,280000,297635.6,-17635.599999999977
+9088,planta 2,exterior,3,77.0,False,False,Pinar del Rey,hortaleza,199000,236876.03333333335,-37876.033333333355
+15545,planta 5,exterior,3,72.0,False,False,Los Ángeles,villaverde,135000,122442.66666666669,12557.333333333314
+7824,planta 3,exterior,3,60.0,False,False,Pueblo Nuevo,ciudad lineal,150000,150290.0,-290.0
+1818,planta 4,exterior,2,172.0,True,False,Recoletos,barrio de salamanca,1470000,1939117.09,-469117.0900000001
+6818,planta 5,exterior,4,299.0,True,False,Nuevos Ministerios-Ríos Rosas,chamberi,2000000,2051450.0,-51450.0
+15253,planta 1,exterior,3,131.0,True,False,Santa Eugenia,villa-de-vallecas,197700,209675.995,-11975.994999999995
+14159,entreplanta,exterior,1,45.0,True,True,Berruguete,tetuan,199000,216481.0,-17481.0
+229,planta 3,exterior,2,71.0,True,False,Imperial,Arganzuela,295000,360719.53333333327,-65719.53333333327
+437,planta 4,exterior,3,135.0,True,True,Delicias,Arganzuela,675600,632430.0,43170.0
+11915,bajo,exterior,1,45.0,False,False,Palomeras Bajas,puente-de-vallecas,140000,108940.23333333334,31059.766666666663
+1149,planta 1,exterior,5,303.0,True,True,Goya,barrio de salamanca,1500000,1737070.0,-237070.0
+7128,entreplanta,interior,3,65.0,False,False,Quintana,ciudad lineal,191000,211633.23333333337,-20633.233333333366
+457,planta 1,exterior,1,52.0,True,False,Delicias,Arganzuela,229100,221384.98,7715.0199999999895
+3075,bajo,exterior,1,40.0,False,False,San Isidro,carabanchel,125000,100187.90000000002,24812.099999999977
+10949,planta 5,exterior,2,59.0,True,False,Valdezarza,moncloa,195000,194742.13666666663,257.863333333371
+1926,planta 6,exterior,3,100.0,True,False,Lista,barrio de salamanca,669000,628181.0,40819.0
+10084,planta 5,exterior,3,88.0,True,True,Lucero,latina,240000,277563.0,-37563.0
+7657,planta 4,exterior,5,237.0,True,True,Colina,ciudad lineal,1605000,1306624.0,298376.0
+1851,planta 5,exterior,2,131.0,True,True,Guindalera,barrio de salamanca,720000,679458.0,40542.0
+10592,bajo,exterior,2,91.0,True,True,Aravaca,moncloa,299000,329822.1666666667,-30822.166666666686
+13095,planta 6,exterior,3,92.0,False,False,Rejas,san-blas,224500,209755.01,14744.98999999999
+7043,bajo,exterior,2,60.0,False,False,Ventas,ciudad lineal,154000,151722.4,2277.600000000006
+10912,planta 2,exterior,3,84.0,True,False,Valdezarza,moncloa,260000,324191.32333333336,-64191.32333333336
+15187,bajo,exterior,3,65.0,False,False,Casco Histórico de Vallecas,villa-de-vallecas,119000,121236.0,-2236.0
+4223,planta 1,exterior,5,166.0,True,False,Malasaña-Universidad,centro,859000,862782.1621319858,-3782.162131985766
+6234,planta 1,interior,3,92.0,True,True,Gaztambide,chamberi,425000,639824.9,-214824.90000000002
+8746,bajo,exterior,2,47.0,False,False,Peñagrande,fuencarral,163900,185373.31333333332,-21473.313333333324
+14683,planta 3,exterior,3,96.0,True,False,12 de Octubre-Orcasur,usera,160000,196979.39,-36979.390000000014
+11258,planta 1,exterior,3,102.0,True,True,Palomeras Bajas,puente-de-vallecas,190000,202491.8,-12491.799999999988
+8573,planta 11,exterior,2,95.0,True,False,Pilar,fuencarral,297000,276573.22,20426.780000000028
+3085,planta 5,exterior,2,116.0,True,True,Pau de Carabanchel,carabanchel,359000,384840.0,-25840.0
+14758,planta 2,exterior,4,129.0,True,False,Almendrales,usera,360000,337696.99,22303.01000000001
+477,planta 7,exterior,1,63.0,True,True,Delicias,Arganzuela,319000,342876.6433333333,-23876.64333333331
+5689,planta 4,exterior,2,103.0,True,False,Bernabéu-Hispanoamérica,chamartin,630000,583549.98,46450.02000000002
+8155,chalet,exterior,4,860.0,False,True,Casa o chalet independiente en Mirasierra,fuencarral,2950000,4194140.0,-1244140.0
+798,planta 2,exterior,2,70.0,True,True,Casco Histórico de Barajas,barajas,225000,259139.2,-34139.20000000001
+14349,bajo,interior,1,29.0,False,False,Bellas Vistas,tetuan,124000,118618.98916666668,5381.010833333319
+10816,planta 2,exterior,2,65.0,False,False,Aravaca,moncloa,240000,243926.0,-3926.0
+14953,bajo,exterior,3,120.0,True,False,Casco Histórico de Vicálvaro,vicalvaro,215000,333546.42,-118546.41999999998
+4303,planta 3,exterior,3,65.0,True,False,Lavapiés-Embajadores,centro,287000,287248.96,-248.96000000002095
+11893,planta 3,exterior,3,120.0,False,True,Palomeras Bajas,puente-de-vallecas,289000,221038.17,67961.82999999999
+9382,bajo,exterior,1,60.0,True,False,Apóstol Santiago,hortaleza,190000,203263.6666666667,-13263.666666666686
+10722,chalet,exterior,5,233.0,False,True,Aravaca,moncloa,850000,1176329.0,-326329.0
+5744,chalet,exterior,6,713.0,False,True,Casa o chalet independiente en El Viso,chamartin,10000000,4763925.0,5236075.0
+7137,planta 9,exterior,2,63.0,True,False,Concepción,ciudad lineal,265000,251092.1433333333,13907.856666666688
+11237,planta 9,exterior,2,89.0,True,True,Palomeras sureste,puente-de-vallecas,395000,234321.66666666663,160678.33333333337
+15365,bajo,exterior,1,50.0,True,False,Ensanche de Vallecas - La Gavia,villa-de-vallecas,96000,132774.98,-36774.98000000001
+14545,planta 5,exterior,2,87.0,True,True,Orcasitas,usera,208000,255589.99,-47589.98999999999
+13321,planta 9,exterior,3,140.0,True,True,Cuzco-Castillejos,tetuan,715000,712023.0,2977.0
+2045,planta 3,exterior,2,112.0,True,False,Lista,barrio de salamanca,925000,794840.0,130160.0
+1077,planta 4,exterior,4,113.0,True,False,Goya,barrio de salamanca,640000,813650.0,-173650.0
+5447,planta 1,interior,3,106.0,True,False,Prosperidad,chamartin,329000,401300.0,-72300.0
+13819,planta 3,exterior,2,126.0,True,False,Cuatro Caminos,tetuan,675000,646330.56,28669.439999999944
+12834,planta 4,exterior,2,65.0,True,False,Canillejas,san-blas,350000,193063.95,156936.05
+5398,chalet,exterior,9,646.0,False,True,El Viso,chamartin,3995000,4306350.0,-311350.0
+4380,planta 5,exterior,2,50.0,True,False,Sol,centro,425000,394910.0,30090.0
+12918,planta 1,exterior,2,46.0,True,False,Simancas,san-blas,130600,129113.23333333334,1486.7666666666628
+4589,planta 1,exterior,5,146.0,True,False,Malasaña-Universidad,centro,740000,732799.7068298369,7200.293170163059
+2152,planta 5,exterior,2,89.0,True,True,Recoletos,barrio de salamanca,1050000,832856.0,217144.0
+2542,planta 2,exterior,3,110.0,True,False,Fuente del Berro,barrio de salamanca,585000,526915.0,58085.0
+2394,entreplanta,exterior,3,125.0,True,False,Fuente del Berro,barrio de salamanca,175000,534093.6,-359093.6
+14703,planta 3,exterior,3,78.0,True,False,12 de Octubre-Orcasur,usera,149500,183047.75,-33547.75
+13527,planta 6,exterior,1,60.0,True,False,Cuzco-Castillejos,tetuan,405000,403932.92,1067.0800000000163
+8449,planta 5,exterior,2,105.0,True,True,Peñagrande,fuencarral,570000,482207.5,87792.5
+4778,planta 3,exterior,4,225.0,True,False,Huertas-Cortes,centro,2000000,1875641.0,124359.0
+1583,planta 5,exterior,3,95.0,True,False,Lista,barrio de salamanca,815000,834349.2380952381,-19349.238095238106
+14447,planta 4,exterior,3,65.0,False,False,Almendrales,usera,143000,139078.9,3921.100000000006
+13389,planta 3,exterior,1,30.0,False,False,Cuatro Caminos,tetuan,135000,136359.95,-1359.9500000000116
+11134,planta 3,exterior,3,59.0,True,False,Vinateros,moratalaz,169000,168454.52380952382,545.4761904761835
+14475,entreplanta,exterior,1,61.0,True,False,Pradolongo,usera,171900,162084.40566666666,9815.594333333342
+4334,planta 1,exterior,5,154.0,True,False,Chueca-Justicia,centro,999000,826646.8333333335,172353.1666666665
+13878,planta 1,exterior,2,72.0,True,True,Berruguete,tetuan,294500,270203.06,24296.940000000002
+7195,planta 2,exterior,2,62.0,True,False,Ventas,ciudad lineal,228000,205752.22,22247.78
+322,planta 4,exterior,1,64.0,True,False,Delicias,Arganzuela,298000,311702.61833333335,-13702.618333333347
+3312,planta 3,exterior,2,70.0,True,False,Vista Alegre,carabanchel,299900,182020.13333333336,117879.86666666664
+966,bajo,interior,2,120.0,True,False,Recoletos,barrio de salamanca,825000,793938.6666666665,31061.33333333349
+4842,planta 6,exterior,5,194.0,True,False,Bernabéu-Hispanoamérica,chamartin,1150000,1139196.0,10804.0
+7807,planta 4,exterior,2,59.0,False,False,Ventas,ciudad lineal,152500,151008.0,1492.0
+560,bajo,exterior,3,59.0,False,False,Imperial,Arganzuela,229000,224028.2,4971.799999999988
+12029,planta 5,exterior,5,160.0,True,True,Jerónimos,retiro,850000,855400.0,-5400.0
+1488,planta 5,exterior,3,157.0,True,False,Recoletos,barrio de salamanca,1650000,1632802.08,17197.919999999925
+1333,planta 1,interior,2,40.0,True,False,Goya,barrio de salamanca,268500,247633.0,20867.0
+1615,planta 1,exterior,3,129.0,True,False,Goya,barrio de salamanca,1080000,1080000.0,0.0
+774,planta 1,exterior,3,64.0,False,False,Casco Histórico de Barajas,barajas,180000,185493.66666666663,-5493.666666666628
+4205,planta 2,exterior,3,117.0,True,False,Palacio,centro,470000,550130.02,-80130.02000000002
+13668,planta 3,exterior,2,80.0,True,False,Valdeacederas,tetuan,303000,353200.0,-50200.0
+14590,planta 1,exterior,2,65.0,False,False,Pradolongo,usera,135000,154942.06666666668,-19942.06666666668
+10335,bajo,exterior,4,285.0,False,False,Ciudad Universitaria,moncloa,1800000,1449750.0,350250.0
+9346,planta 1,exterior,2,52.0,True,False,Pinar del Rey,hortaleza,175000,188954.33333333337,-13954.333333333372
+563,planta -1,interior,1,34.0,True,False,Acacias,Arganzuela,149000,157372.0,-8372.0
+9538,bajo,interior,3,130.0,True,True,Sanchinarro,hortaleza,670000,694770.0,-24770.0
+3761,planta 3,exterior,5,220.0,True,False,Malasaña-Universidad,centro,1050000,1131930.0,-81930.0
+3744,planta 1,exterior,3,221.0,True,False,Palacio,centro,1800000,1122805.0,677195.0
+12402,planta 6,exterior,1,56.0,True,False,Pacífico,retiro,345000,348130.0,-3130.0
+2306,semi-sotano,exterior,2,99.0,True,False,Goya,barrio de salamanca,380000,468005.0,-88005.0
+1356,planta 2,exterior,1,35.0,True,False,Recoletos,barrio de salamanca,395000,416178.9,-21178.900000000023
+4149,planta 3,exterior,6,141.0,True,False,Huertas-Cortes,centro,685000,699228.5,-14228.5
+9048,planta 1,exterior,3,105.0,True,False,Canillas,hortaleza,320000,351653.99,-31653.98999999999
+15357,planta 3,exterior,3,146.0,True,True,Ensanche de Vallecas - La Gavia,villa-de-vallecas,295000,429245.88333333336,-134245.88333333336
+1907,planta 1,interior,2,67.0,True,False,Lista,barrio de salamanca,282000,410020.1,-128020.09999999998
+9304,planta 1,exterior,3,143.0,True,False,Conde Orgaz-Piovera,hortaleza,950000,865366.5,84633.5
+5207,bajo,exterior,2,62.0,True,False,El Viso,chamartin,324500,368519.3333333334,-44019.33333333337
+498,bajo,exterior,1,71.0,True,False,Imperial,Arganzuela,284000,296742.3333333334,-12742.333333333372
+14566,planta 3,exterior,2,53.0,False,False,Almendrales,usera,139000,130589.2,8410.800000000003
+8431,planta 2,exterior,3,125.0,True,False,La Paz,fuencarral,599000,512949.98333333334,86050.01666666666
+8820,planta 4,exterior,3,190.0,True,True,Dúplex en Arroyo del Fresno,fuencarral,920000,866685.0,53315.0
+5428,planta 1,exterior,4,463.0,True,True,El Viso,chamartin,2500000,2577122.619047619,-77122.61904761894
+2658,planta 2,exterior,1,51.0,False,False,Puerta Bonita,carabanchel,122000,120813.36166666668,1186.6383333333215
+15259,planta 8,exterior,3,171.0,True,True,Ensanche de Vallecas - La Gavia,villa-de-vallecas,649000,526099.72,122900.28000000003
+6512,bajo,exterior,3,68.0,True,False,Nuevos Ministerios-Ríos Rosas,chamberi,310000,382950.97916666657,-72950.97916666657
+4575,bajo,interior,1,25.0,True,False,Dúplex en Palacio,centro,169000,153307.0,15693.0
+6268,entreplanta,exterior,1,45.0,True,False,Arapiles,chamberi,290000,289040.0,960.0
+6242,planta 1,exterior,2,150.0,True,False,Trafalgar,chamberi,980000,1324030.0,-344030.0
+15575,planta 2,exterior,3,105.0,True,True,Villaverde Alto,villaverde,189999,193385.99,-3386.9899999999907
+15494,bajo,exterior,2,64.0,False,False,Los Ángeles,villaverde,136900,112218.90849999999,24681.09150000001
+8216,planta 1,exterior,3,71.0,False,False,Tres Olivos - Valverde,fuencarral,195000,193235.25333333333,1764.7466666666733
+6632,planta 3,exterior,1,80.0,True,True,Gaztambide,chamberi,450000,510395.0,-60395.0
+1087,planta 6,exterior,3,360.0,True,True,Recoletos,barrio de salamanca,4500000,3639025.0,860975.0
+15655,planta 4,exterior,2,80.0,True,True,Villaverde Alto,villaverde,210000,186075.0,23925.0
+3319,planta 3,exterior,2,55.0,True,False,Buena Vista,carabanchel,159999,132085.73,27913.26999999999
+13617,planta 1,exterior,1,63.0,True,False,Berruguete,tetuan,235000,219684.99999999997,15315.00000000003
+14516,planta 1,exterior,3,100.0,False,False,Almendrales,usera,190000,252900.6,-62900.600000000006
+3149,planta 3,exterior,3,73.0,False,False,San Isidro,carabanchel,186000,143593.0,42407.0
+11663,planta 4,exterior,2,84.0,False,True,Palomeras Bajas,puente-de-vallecas,122000,157202.0,-35202.0
+12593,bajo,exterior,1,102.0,True,True,Simancas,san-blas,290000,321089.79333333333,-31089.793333333335
+7288,planta 3,exterior,1,71.0,True,True,Pueblo Nuevo,ciudad lineal,235000,273879.36666666664,-38879.36666666664
+14886,planta 4,exterior,3,65.0,False,False,Casco Histórico de Vicálvaro,vicalvaro,170000,146513.66317460316,23486.336825396837
+12817,chalet,exterior,6,340.0,False,False,Casa o chalet independiente en Rejas,san-blas,650000,1009331.0,-359331.0
+2143,planta 3,exterior,3,250.0,True,False,Recoletos,barrio de salamanca,2700000,2506750.0,193250.0
+2732,planta 2,interior,2,66.0,False,False,Vista Alegre,carabanchel,165000,165000.0,0.0
+5535,planta 5,exterior,5,223.0,True,True,Castilla,chamartin,875000,1241680.0,-366680.0
+12625,planta 3,exterior,4,250.0,True,True,Simancas,san-blas,420000,954388.0,-534388.0
+4579,planta 1,exterior,2,99.0,True,False,Lavapiés-Embajadores,centro,450000,505755.5833333334,-55755.58333333337
+5213,planta 2,exterior,2,87.0,True,False,Bernabéu-Hispanoamérica,chamartin,465000,471288.33333333326,-6288.333333333256
+9507,planta 1,exterior,2,67.0,True,True,Canillas,hortaleza,333000,302411.15,30588.849999999977
+5526,planta 3,exterior,4,340.0,True,False,El Viso,chamartin,2400000,2318343.701799726,81656.29820027389
+11323,planta 4,exterior,2,63.0,True,True,San Diego,puente-de-vallecas,148000,331622.0,-183622.0
+6523,planta 1,exterior,3,103.0,True,True,Gaztambide,chamberi,545000,563383.5,-18383.5
+15922,planta 5,exterior,3,156.0,True,True,Villaverde Alto,villaverde,365000,300430.0,64570.0
+15658,planta 5,exterior,1,89.0,True,True,Villaverde Alto,villaverde,275000,229640.0,45360.0
+9040,planta 4,exterior,1,60.0,True,True,Sanchinarro,hortaleza,325000,323230.0,1770.0
+9613,planta 4,exterior,3,88.0,True,False,Puerta del Ángel,latina,260000,285177.0,-25177.0
+12077,planta 4,exterior,5,280.0,True,False,Ático en Jerónimos,retiro,2500000,2382230.0,117770.0
+3195,planta 3,exterior,3,89.0,True,False,Comillas,carabanchel,285030,283363.16,1666.8400000000256
+2784,planta 4,exterior,3,97.0,True,False,Vista Alegre,carabanchel,200000,200000.0,0.0
+12596,bajo,exterior,3,95.0,True,False,Amposta,san-blas,209900,194921.7785714286,14978.221428571414
+3334,bajo,exterior,2,113.0,True,True,Vista Alegre,carabanchel,250000,299539.03,-49539.03000000003
+11996,planta 3,exterior,5,165.0,True,False,Pacífico,retiro,695000,598605.6666666665,96394.33333333349
+14541,planta 4,exterior,3,85.0,True,False,Moscardó,usera,350000,223203.32333333336,126796.67666666664
+12633,chalet,exterior,6,203.0,False,True,Chalet adosado en Salvador,san-blas,940000,1002609.99,-62609.98999999999
+13359,planta 10,exterior,5,235.0,True,False,Cuzco-Castillejos,tetuan,950000,1039055.0,-89055.0
+14141,bajo,interior,1,35.0,False,False,Berruguete,tetuan,120500,98724.0,21776.0
+9852,planta 6,exterior,3,73.0,True,False,Águilas,latina,179000,178246.91333333336,753.0866666666407
+1929,planta 1,interior,2,45.0,True,False,Goya,barrio de salamanca,280000,317038.4,-37038.40000000002
+11696,planta 1,exterior,3,80.0,False,False,Entrevías,puente-de-vallecas,165000,151448.0,13552.0
+5713,planta 8,exterior,4,300.0,True,True,Nueva España,chamartin,2200000,2356077.5,-156077.5
+305,planta 2,interior,2,41.0,True,False,Imperial,Arganzuela,155000,164290.0,-9290.0
+11567,planta 4,exterior,2,57.0,False,False,Entrevías,puente-de-vallecas,109900,107951.0,1949.0
+3081,planta 1,exterior,3,110.0,True,False,Puerta Bonita,carabanchel,288000,239616.46,48383.54000000001
+7487,planta 2,exterior,3,87.0,True,False,Ventas,ciudad lineal,180000,234260.41,-54260.41
+7252,planta 2,interior,3,65.0,True,False,Pueblo Nuevo,ciudad lineal,188000,163672.0,24328.0
+8093,planta 4,exterior,3,56.0,True,False,Pueblo Nuevo,ciudad lineal,136000,138493.0,-2493.0
+2024,planta 10,exterior,4,112.0,True,True,Guindalera,barrio de salamanca,550000,549912.5,87.5
+2701,planta 1,interior,2,60.0,False,False,Buena Vista,carabanchel,139900,134477.76190476192,5422.238095238077
+6542,planta 1,exterior,5,212.0,True,False,Vallehermoso,chamberi,785000,953819.0,-168819.0
+5454,planta 3,exterior,2,188.0,True,True,Nueva España,chamartin,1240000,1166990.0,73010.0
+13356,bajo,exterior,1,67.0,True,False,Cuatro Caminos,tetuan,290000,342129.47,-52129.46999999997
+8318,planta 11,exterior,3,180.0,True,True,La Paz,fuencarral,550000,673921.8,-123921.80000000005
+7467,planta 9,exterior,3,80.0,True,False,Concepción,ciudad lineal,260000,272792.0,-12792.0
+8509,chalet,exterior,7,513.0,False,True,Chalet pareado en Peñagrande,fuencarral,990000,1169250.0,-179250.0
+5111,planta 1,interior,2,88.0,True,False,Nueva España,chamartin,399000,449764.0,-50764.0
+1062,planta 2,exterior,3,319.0,True,False,Lista,barrio de salamanca,2700000,2830100.0,-130100.0
+7313,bajo,exterior,4,160.0,True,True,San Pascual,ciudad lineal,1130000,612826.8899999999,517173.1100000001
+4448,planta 4,exterior,2,88.0,True,False,Palacio,centro,418000,507978.0,-89978.0
+2758,bajo,exterior,2,70.0,False,False,Comillas,carabanchel,167000,165490.0,1510.0
+2060,planta 6,exterior,2,94.0,True,False,Lista,barrio de salamanca,749000,638021.6666666667,110978.33333333326
+8924,chalet,exterior,5,420.0,False,True,Chalet adosado en Conde Orgaz-Piovera,hortaleza,1290000,1755750.363333333,-465750.36333333305
+13126,planta 2,exterior,3,57.0,False,False,Canillejas,san-blas,155000,159144.0,-4144.0
+11653,planta 2,exterior,1,51.0,True,False,Numancia,puente-de-vallecas,175000,166157.0,8843.0
+10033,bajo,exterior,2,85.0,False,False,Lucero,latina,179000,172497.11666666667,6502.883333333331
+15687,planta 1,exterior,4,116.0,True,True,Villaverde Alto,villaverde,229000,286620.0,-57620.0
+3299,planta 1,exterior,2,78.0,True,True,San Isidro,carabanchel,300000,255748.85316666664,44251.14683333336
+13130,planta 2,exterior,2,95.0,True,True,Rejas,san-blas,325000,286500.0,38500.0
+14643,planta 2,exterior,2,89.0,True,True,San Fermín,usera,236000,243687.11,-7687.109999999986
+14005,bajo,exterior,2,33.0,False,False,Bellas Vistas,tetuan,108500,121776.33333333334,-13276.333333333343
+3661,planta 2,interior,2,70.0,False,False,San Isidro,carabanchel,81000,163908.40666666665,-82908.40666666665
+12199,bajo,interior,1,28.0,False,False,Pacífico,retiro,98000,132145.0,-34145.0
+2929,planta 5,exterior,4,135.0,True,True,Abrantes,carabanchel,435000,435290.0,-290.0
+12908,planta 1,exterior,3,65.0,False,False,Canillejas,san-blas,175000,175960.15,-960.1499999999942
+14473,planta 3,interior,2,83.0,True,False,Moscardó,usera,268000,227169.29,40830.70999999999
+7708,bajo,exterior,2,53.0,False,False,Pueblo Nuevo,ciudad lineal,150000,159480.71666666667,-9480.716666666674
+3517,planta 4,exterior,3,65.0,False,False,Puerta Bonita,carabanchel,95000,131322.2,-36322.20000000001
+4811,chalet,exterior,4,248.0,False,False,Chalet pareado en El Viso,chamartin,2400000,2167225.0,232775.0
+12462,planta 4,exterior,5,154.0,True,False,Pacífico,retiro,565000,584260.0,-19260.0
+15574,planta 1,exterior,3,100.0,True,True,Los Rosales,villaverde,160000,245099.99666666667,-85099.99666666667
+3746,planta 4,exterior,2,95.0,False,False,Palacio,centro,410000,499999.94,-89999.94
+13250,planta 3,exterior,3,77.0,False,False,Canillejas,san-blas,155000,170222.40416666665,-15222.404166666645
+4545,planta 3,interior,2,34.0,False,False,Malasaña-Universidad,centro,245000,177596.66666666663,67403.33333333337
+4408,planta 1,exterior,2,54.0,True,False,Malasaña-Universidad,centro,249000,304356.5566666667,-55356.5566666667
+10969,planta 3,exterior,3,156.0,False,True,Ciudad Universitaria,moncloa,620000,688180.0,-68180.0
+4281,planta 2,exterior,9,180.0,True,False,Sol,centro,690000,785118.5555555555,-95118.5555555555
+1060,planta 6,exterior,2,179.0,True,True,Ático en Castellana,barrio de salamanca,1750000,1740490.093333333,9509.906666666968
+8320,planta 3,exterior,3,111.0,True,True,Peñagrande,fuencarral,540000,549206.0,-9206.0
+13902,bajo,exterior,1,44.0,False,False,Cuatro Caminos,tetuan,203000,208995.11083333337,-5995.110833333369
+6633,planta 3,interior,3,56.0,True,False,Arapiles,chamberi,285000,307840.0,-22840.0
+790,entreplanta,exterior,3,120.0,True,False,Alameda de Osuna,barajas,329000,457110.0,-128110.0
+5886,chalet,exterior,5,512.0,False,False,Vallehermoso,chamberi,2350000,2708757.03,-358757.0299999998
+14064,planta 1,exterior,1,32.0,False,False,Bellas Vistas,tetuan,170000,140189.25000000003,29810.74999999997
+8258,chalet,exterior,4,340.0,False,True,Chalet en Mirasierra,fuencarral,1490000,969770.0,520230.0
+11038,planta 1,exterior,4,134.0,True,True,Horcajo,moratalaz,448000,601123.61,-153123.61
+13266,planta 2,exterior,7,430.0,True,True,Cuzco-Castillejos,tetuan,2150000,2220839.99,-70839.99000000022
+13162,bajo,exterior,3,95.0,True,False,Rejas,san-blas,148900,235671.39,-86771.39000000001
+8042,planta 6,exterior,3,95.0,True,True,San Juan Bautista,ciudad lineal,404000,516338.8,-112338.79999999999
+1535,planta 8,exterior,5,300.0,True,True,Castellana,barrio de salamanca,2750000,2556330.0,193670.0
+1595,planta 5,exterior,2,194.0,True,False,Castellana,barrio de salamanca,935000,1744978.1233333335,-809978.1233333335
+738,planta 2,exterior,1,64.0,True,False,Casco Histórico de Barajas,barajas,169000,208836.0,-39836.0
+13417,bajo,exterior,3,95.0,False,False,Valdeacederas,tetuan,315000,446915.0,-131915.0
+14463,planta 9,exterior,3,100.0,True,False,Orcasitas,usera,149000,201554.83,-52554.82999999999
+12519,planta 1,exterior,4,134.0,True,True,Niño Jesús,retiro,785000,776015.0,8985.0
+74,bajo,interior,1,32.0,False,False,Delicias,Arganzuela,139000,135398.0,3602.0
+6004,planta 5,interior,5,204.0,True,False,Nuevos Ministerios-Ríos Rosas,chamberi,870000,1129338.0,-259338.0
+156,planta 1,exterior,1,93.0,True,True,Legazpi,Arganzuela,320000,360722.55,-40722.54999999999
+7590,planta 1,exterior,4,104.0,False,False,Quintana,ciudad lineal,260000,311199.07,-51199.07000000001
+390,planta 5,exterior,3,82.0,True,False,Acacias,Arganzuela,330000,370479.0,-40479.0
+3585,planta 2,exterior,2,60.0,False,False,San Isidro,carabanchel,122300,122304.99,-4.990000000005239
+8853,planta 1,exterior,3,115.0,True,True,Sanchinarro,hortaleza,510000,475810.0,34190.0
+4694,planta 2,exterior,1,45.0,True,False,Malasaña-Universidad,centro,235000,286309.0,-51309.0
+4909,planta 2,exterior,3,106.0,True,False,Prosperidad,chamartin,530000,509923.48,20076.52000000002
+5387,planta 3,exterior,3,93.0,True,False,Bernabéu-Hispanoamérica,chamartin,470000,482908.0,-12908.0
+9637,bajo,exterior,2,66.0,False,True,Aluche,latina,212500,191794.5,20705.5
+12239,bajo,exterior,3,195.0,True,False,Jerónimos,retiro,1850000,1330000.0,520000.0
+6883,planta 2,exterior,5,194.0,True,False,Gaztambide,chamberi,844000,844233.3452380954,-233.34523809538223
+2384,planta 4,exterior,4,250.0,True,True,Guindalera,barrio de salamanca,1145000,1157540.0,-12540.0
+10977,planta 3,exterior,4,306.0,True,True,Aravaca,moncloa,1440000,1425340.0,14660.0
+10435,planta 1,exterior,5,447.0,True,True,Argüelles,moncloa,1950000,2562920.0,-612920.0
+9856,planta 1,exterior,2,66.0,False,False,Puerta del Ángel,latina,139000,164697.02333333335,-25697.023333333345
+11634,bajo,exterior,2,59.0,True,False,Palomeras sureste,puente-de-vallecas,114990,120226.23,-5236.229999999996
+3134,planta 2,interior,3,95.0,True,True,Opañel,carabanchel,325000,255812.12,69187.88
+11096,planta 2,exterior,3,80.0,False,False,Fontarrón,moratalaz,195000,163562.25,31437.75
+9377,planta 1,exterior,4,209.0,True,True,Conde Orgaz-Piovera,hortaleza,995000,1005309.0,-10309.0
+6938,planta 2,exterior,4,208.0,True,False,Arapiles,chamberi,875000,1033999.6666666667,-158999.66666666674
+2274,planta 2,exterior,4,413.0,True,False,Goya,barrio de salamanca,2200000,3533240.0,-1333240.0
+9954,planta 1,exterior,3,95.0,True,True,Campamento,latina,286410,289087.26,-2677.2600000000093
+5238,planta 2,exterior,3,204.0,True,True,Castilla,chamartin,870000,884280.0,-14280.0
+9330,planta 4,exterior,3,215.0,True,True,Palomas,hortaleza,1300000,936369.6566666667,363630.34333333327
+13704,planta 4,exterior,2,92.0,True,True,Valdeacederas,tetuan,454000,424445.0,29555.0
+14820,planta 3,exterior,3,81.0,False,False,Zofío,usera,150000,153802.0,-3802.0
+4616,planta 6,exterior,4,93.0,True,False,Lavapiés-Embajadores,centro,670000,467824.97,202175.03000000003
+8506,chalet,exterior,4,394.0,False,True,Peñagrande,fuencarral,1340000,1362084.0,-22084.0
+1962,planta 5,exterior,5,192.0,True,False,Guindalera,barrio de salamanca,773000,870331.4,-97331.40000000002
+6053,planta 4,exterior,2,108.0,True,False,Nuevos Ministerios-Ríos Rosas,chamberi,780000,758183.6666666665,21816.33333333349
+15029,planta 5,exterior,3,95.0,True,True,El Cañaveral,vicalvaro,312000,322039.0,-10039.0
+2426,planta 3,exterior,2,105.0,True,False,Guindalera,barrio de salamanca,472500,472365.0,135.0
+13202,entreplanta,exterior,1,40.0,False,False,Amposta,san-blas,79900,106974.79849999999,-27074.79849999999
+12037,planta 4,exterior,2,113.0,True,False,Ibiza,retiro,940000,824690.0,115310.0
+15606,planta 3,exterior,1,55.0,True,True,Butarque,villaverde,158000,222603.26666666663,-64603.266666666634
+5378,planta 12,exterior,4,211.0,True,True,Nueva España,chamartin,1500000,1451400.0,48600.0
+13362,planta 2,exterior,2,38.0,False,False,Cuatro Caminos,tetuan,230000,172797.0,57203.0
+337,planta 2,interior,2,90.0,True,False,Chopera,Arganzuela,460000,359054.25,100945.75
+2718,bajo,exterior,3,79.0,False,True,San Isidro,carabanchel,144900,207672.30671428572,-62772.30671428572
+14661,planta 3,exterior,3,85.0,False,False,San Fermín,usera,154999,183286.46,-28287.459999999992
+3618,planta 3,interior,2,62.0,False,False,Vista Alegre,carabanchel,122100,129019.4,-6919.399999999994
+13138,planta 4,exterior,2,90.0,True,True,Rejas,san-blas,259000,296001.6666666667,-37001.666666666686
+6785,sotano,exterior,1,40.0,False,False,Almagro,chamberi,143000,243531.0,-100531.0
+7217,planta 3,exterior,5,529.0,True,True,San Juan Bautista,ciudad lineal,1740000,1847555.7,-107555.69999999995
+8324,planta 7,interior,2,120.0,True,True,Las Tablas,fuencarral,695000,519420.0,175580.0
+10310,chalet,exterior,6,265.0,False,False,Chalet adosado en El Plantío,moncloa,990000,961910.0,28090.0
+12501,planta 1,interior,1,58.0,True,False,Pacífico,retiro,250000,236400.0,13600.0
+12844,planta 6,exterior,2,112.0,True,True,Rejas,san-blas,352000,391118.0,-39118.0
+8166,planta 7,exterior,5,505.0,True,True,Mirasierra,fuencarral,1424400,2244750.0,-820350.0
+12772,planta 1,exterior,3,84.0,True,False,Hellín,san-blas,223000,227463.81,-4463.809999999998
+13949,planta 3,exterior,1,27.0,False,False,Cuatro Caminos,tetuan,135000,137659.95,-2659.9500000000116
+1532,planta 4,interior,3,70.0,True,False,Fuente del Berro,barrio de salamanca,299900,325430.0,-25530.0
+9188,planta 7,exterior,3,140.0,True,True,Valdebebas - Valdefuentes,hortaleza,613000,637111.64,-24111.640000000014
+433,planta 5,exterior,5,113.0,True,False,Imperial,Arganzuela,450000,541025.0,-91025.0
+15236,planta 2,exterior,3,91.0,True,True,Santa Eugenia,villa-de-vallecas,219900,280633.0,-60733.0
+8668,planta 5,exterior,5,201.0,True,True,La Paz,fuencarral,855000,867895.19,-12895.189999999944
+9248,planta 5,exterior,3,215.0,True,True,Valdebebas - Valdefuentes,hortaleza,780000,810605.96,-30605.959999999963
+15751,planta 6,exterior,4,165.0,True,True,Los Ángeles,villaverde,510000,401728.0,108272.0
+8925,planta 3,exterior,4,226.0,True,True,Palomas,hortaleza,965000,857040.0,107960.0
+6540,bajo,interior,2,73.0,True,False,Almagro,chamberi,485000,416378.0,68622.0
+12891,planta 1,exterior,3,146.0,True,True,Rejas,san-blas,408000,419405.3333333334,-11405.333333333372
+13347,planta 7,exterior,4,220.0,True,True,Cuzco-Castillejos,tetuan,1095000,1100460.238095238,-5460.238095238106
+7718,entreplanta,exterior,2,62.0,False,False,Pueblo Nuevo,ciudad lineal,157000,162445.83333333334,-5445.833333333343
+7995,bajo,exterior,1,35.0,False,False,Pueblo Nuevo,ciudad lineal,123000,109685.0,13315.0
+14231,planta 7,exterior,1,42.0,True,True,Cuzco-Castillejos,tetuan,350000,379635.98,-29635.97999999998
+8862,planta 1,exterior,2,74.0,True,True,Sanchinarro,hortaleza,390000,377853.54,12146.460000000021
+4784,planta 2,exterior,4,101.0,False,False,Malasaña-Universidad,centro,500000,535400.0,-35400.0
+6574,planta 2,exterior,3,250.0,True,False,Almagro,chamberi,2030000,1957050.0,72950.0
+6099,bajo,interior,1,45.0,True,False,Gaztambide,chamberi,199000,258770.66333333336,-59770.66333333336
+4913,planta 2,interior,4,135.0,True,False,Bernabéu-Hispanoamérica,chamartin,578000,697288.0,-119288.0
+8156,casa,exterior,5,758.0,False,True,Chalet en Mirasierra,fuencarral,2292000,1439114.72,852885.28
+11363,planta 4,exterior,2,60.0,False,False,San Diego,puente-de-vallecas,103000,113536.50000000001,-10536.500000000015
+4955,planta 1,exterior,2,90.0,True,False,Bernabéu-Hispanoamérica,chamartin,515000,457463.3233333333,57536.676666666695
+14445,planta 2,exterior,4,90.0,False,False,Almendrales,usera,181000,206043.13333333333,-25043.13333333333
+5414,planta 2,exterior,2,61.0,False,False,Ciudad Jardín,chamartin,249000,249000.0,0.0
+4743,planta 2,exterior,4,115.0,True,False,Palacio,centro,720000,586883.0,133117.0
+8683,planta 4,exterior,3,62.0,False,False,Tres Olivos - Valverde,fuencarral,158000,167833.74,-9833.73999999999
+8567,planta 5,exterior,3,133.0,True,True,Peñagrande,fuencarral,735000,688952.99,46047.01000000001
+10170,bajo,exterior,1,80.0,False,False,Puerta del Ángel,latina,208884,223175.198,-14291.198000000004
+7862,bajo,exterior,1,86.0,False,False,Ventas,ciudad lineal,225000,225129.23,-129.23000000001048
+8296,planta 1,exterior,3,69.0,False,False,Tres Olivos - Valverde,fuencarral,195000,177964.09666666665,17035.90333333335
+11383,planta 3,exterior,3,86.0,False,False,San Diego,puente-de-vallecas,148500,143442.0428571429,5057.957142857107
+174,planta 7,interior,3,77.0,True,False,Acacias,Arganzuela,397000,397000.0,0.0
+9902,planta 1,exterior,3,81.0,True,False,Los Cármenes,latina,195000,178863.3333333333,16136.666666666686
+13441,planta 1,exterior,3,79.0,True,False,Berruguete,tetuan,440000,268633.0,171367.0
+6037,planta 5,exterior,3,160.0,True,False,Almagro,chamberi,950000,950000.0,0.0
+2613,planta 3,exterior,4,249.0,True,False,Lista,barrio de salamanca,1650000,1699140.0,-49140.0
+1173,planta 5,exterior,4,155.0,True,False,Goya,barrio de salamanca,799000,800900.0,-1900.0
+3128,planta 3,exterior,3,120.0,False,True,Buena Vista,carabanchel,250000,254843.99,-4843.989999999991
+100,sotano,interior,2,40.0,False,False,Delicias,Arganzuela,144800,155211.8,-10411.799999999988
+802,planta 3,exterior,4,100.0,False,False,Alameda de Osuna,barajas,256000,336941.0,-80941.0
+12022,planta 3,exterior,3,104.0,True,False,Pacífico,retiro,520000,797195.5,-277195.5
+9582,planta 7,exterior,2,80.0,True,False,Puerta del Ángel,latina,349000,255707.96,93292.04000000001
+13857,planta 1,exterior,3,100.0,False,False,Valdeacederas,tetuan,310000,332810.0,-22810.0
+3436,planta 1,exterior,3,95.0,False,False,Vista Alegre,carabanchel,175000,181117.6666666667,-6117.666666666686
+15063,planta 2,exterior,4,113.0,True,True,Valdebernardo - Valderrivas,vicalvaro,435000,414983.0,20017.0
+3143,bajo,exterior,1,57.0,False,False,Comillas,carabanchel,179000,153985.9975,25014.002500000002
+5018,planta 1,exterior,3,127.0,True,False,Bernabéu-Hispanoamérica,chamartin,950000,868106.6666666667,81893.33333333326
+2186,entreplanta,interior,1,48.0,True,False,Guindalera,barrio de salamanca,295000,295600.0,-600.0
+10317,planta 1,exterior,4,174.0,True,True,Casa de Campo,moncloa,830000,832298.6,-2298.5999999999767
+2663,planta 4,interior,2,72.0,True,False,Vista Alegre,carabanchel,169500,191591.8,-22091.79999999999
+11047,planta 4,exterior,2,168.0,True,True,Horcajo,moratalaz,420000,572412.0,-152412.0
+15107,planta 1,exterior,3,79.0,True,False,Ambroz,vicalvaro,159900,213037.95,-53137.95000000001
+1385,planta 6,interior,2,55.0,True,False,Lista,barrio de salamanca,349000,361267.0,-12267.0
+2301,planta 4,exterior,3,240.0,True,False,Recoletos,barrio de salamanca,2360000,2570978.5714285714,-210978.57142857136
+11762,planta 2,exterior,3,84.0,True,False,San Diego,puente-de-vallecas,195000,192971.94,2028.0599999999977
+1113,planta 7,exterior,4,175.0,True,False,Ático en Fuente del Berro,barrio de salamanca,1138000,879753.4164081531,258246.58359184687
+12711,planta 1,exterior,3,143.0,True,True,Rejas,san-blas,370000,422840.99999999994,-52840.99999999994
+1211,planta 3,exterior,2,103.0,True,False,Goya,barrio de salamanca,669000,696860.0,-27860.0
+168,bajo,exterior,4,185.0,False,True,Imperial,Arganzuela,395000,524413.0066666666,-129413.0066666666
+11718,planta 1,exterior,3,71.0,False,False,Palomeras sureste,puente-de-vallecas,143500,144918.66666666666,-1418.666666666657
+9242,planta 1,exterior,2,80.0,True,True,Sanchinarro,hortaleza,415000,440286.011904762,-25286.01190476201
+6377,planta 3,interior,2,75.0,True,True,Arapiles,chamberi,485000,408664.99,76335.01000000001
+15277,chalet,exterior,3,135.0,False,True,Ensanche de Vallecas - La Gavia,villa-de-vallecas,411000,410620.3940476191,379.60595238092355
+10274,planta 1,exterior,2,35.0,True,False,Puerta del Ángel,latina,125000,132848.4,-7848.399999999994
+8364,planta 15,exterior,3,110.0,True,False,Pilar,fuencarral,485000,460347.9,24652.099999999977
+207,planta 1,exterior,1,37.0,False,False,Acacias,Arganzuela,235000,160111.5,74888.5
+1205,planta 2,exterior,2,90.0,True,False,Guindalera,barrio de salamanca,360000,390504.0,-30504.0
+15727,planta 2,exterior,3,70.0,True,False,Villaverde Alto,villaverde,185000,131583.86666666667,53416.13333333333
+1671,planta 4,exterior,5,445.0,True,True,Recoletos,barrio de salamanca,2900000,3418800.0,-518800.0
+2987,planta 1,exterior,2,75.0,False,False,San Isidro,carabanchel,168000,167302.4049284049,697.595071595104
+13589,bajo,exterior,3,70.0,False,False,Berruguete,tetuan,178000,205250.0,-27250.0
+15101,planta 3,exterior,3,70.0,True,False,Casco Histórico de Vicálvaro,vicalvaro,156000,218770.0,-62770.0
+10015,bajo,exterior,2,55.0,False,False,Puerta del Ángel,latina,125000,158399.0,-33399.0
+7855,bajo,exterior,3,73.0,True,False,Ventas,ciudad lineal,225000,200529.6666666667,24470.333333333314
+11871,planta 1,exterior,4,55.0,True,False,Numancia,puente-de-vallecas,490000,135458.25,354541.75
+1018,planta 3,exterior,2,75.0,True,True,Lista,barrio de salamanca,650000,556142.0,93858.0
+3872,planta 3,exterior,4,121.0,False,False,Lavapiés-Embajadores,centro,479000,489931.0,-10931.0
+14528,planta 3,exterior,3,95.0,True,False,Moscardó,usera,210000,238210.09,-28210.089999999997
+15786,planta 3,exterior,1,72.0,True,False,Dúplex en Villaverde Alto,villaverde,150900,164172.0,-13272.0
+5322,planta 3,exterior,4,164.0,True,True,Nueva España,chamartin,1550000,1453340.0,96660.0
+9117,planta 2,exterior,3,75.0,True,False,Pinar del Rey,hortaleza,212000,237296.24,-25296.23999999999
+2125,planta 5,exterior,2,121.0,True,False,Lista,barrio de salamanca,639000,840843.0,-201843.0
+12914,planta 2,exterior,4,125.0,True,False,Canillejas,san-blas,290000,424800.27857142856,-134800.27857142856
+14199,planta 1,exterior,1,68.0,True,False,Berruguete,tetuan,247200,243707.19,3492.8099999999977
+9085,planta 4,exterior,4,180.0,True,True,Palomas,hortaleza,860900,856039.1392857144,4860.8607142856345
+2038,planta 6,interior,1,89.0,True,False,Recoletos,barrio de salamanca,690000,696110.0,-6110.0
+10013,bajo,exterior,2,40.0,True,False,Puerta del Ángel,latina,118000,165657.48,-47657.48000000001
+5835,planta 5,exterior,4,220.0,True,True,El Viso,chamartin,1500000,1555765.0,-55765.0
+15808,planta 3,exterior,2,69.0,True,False,Los Rosales,villaverde,123000,124618.46071428568,-1618.460714285684
+15564,planta 3,exterior,3,108.0,True,False,Butarque,villaverde,235000,261536.71,-26536.709999999992
+7395,planta 2,exterior,3,85.0,True,False,Quintana,ciudad lineal,300000,285958.0,14042.0
+178,planta 12,exterior,3,90.0,True,False,Legazpi,Arganzuela,440000,436768.99,3231.0100000000093
+9999,planta 2,exterior,1,65.0,True,False,Puerta del Ángel,latina,159500,169694.9523809524,-10194.952380952396
+12185,planta 3,exterior,4,115.0,True,False,Adelfas,retiro,454900,523820.0,-68920.0
+4732,planta 3,exterior,2,130.0,True,False,Chueca-Justicia,centro,990000,949593.0,40407.0
+7253,planta 7,exterior,3,76.0,True,False,Costillares,ciudad lineal,185000,244869.8,-59869.79999999999
+11647,planta 3,exterior,1,43.0,True,True,San Diego,puente-de-vallecas,245000,231590.0,13410.0
+3160,planta 4,exterior,2,75.0,True,False,Vista Alegre,carabanchel,239000,191407.6,47592.399999999994
+6555,planta 1,interior,1,72.0,True,False,Trafalgar,chamberi,449000,452489.0,-3489.0
+12673,planta 1,exterior,3,103.0,True,False,Rosas,san-blas,279999,280000.0,-1.0
+8057,planta 1,exterior,4,237.0,True,True,Colina,ciudad lineal,1100000,1311080.25,-211080.25
+15150,planta 1,exterior,3,98.0,True,True,Casco Histórico de Vallecas,villa-de-vallecas,330000,226569.89416666664,103430.10583333336
+4865,chalet,exterior,9,848.0,False,True,Casa o chalet independiente en El Viso,chamartin,5800000,5743800.0,56200.0
+9772,planta 2,exterior,3,83.0,False,False,Aluche,latina,159000,172670.00952380948,-13670.00952380948
+9142,planta 1,exterior,4,143.0,True,True,Canillas,hortaleza,695000,610808.79,84191.20999999996
+5444,bajo,exterior,3,123.0,False,False,Ciudad Jardín,chamartin,289000,488460.0,-199460.0
+12360,planta 4,interior,5,133.0,True,False,Ibiza,retiro,630000,795010.6666666665,-165010.6666666665
+3813,planta 2,exterior,2,99.0,True,False,Lavapiés-Embajadores,centro,727000,590967.75,136032.25
+4381,planta 1,exterior,1,63.0,True,False,Huertas-Cortes,centro,480000,480000.0,0.0
+2646,planta 2,exterior,1,32.0,False,False,Comillas,carabanchel,134900,122614.0,12286.0
+1954,planta 4,interior,2,80.0,True,False,Recoletos,barrio de salamanca,840000,686424.3333333333,153575.66666666674
+1436,planta 2,exterior,5,405.0,True,False,Recoletos,barrio de salamanca,4200000,3642550.0,557450.0
+14478,planta 2,exterior,2,65.0,False,False,San Fermín,usera,146000,146819.78,-819.7799999999988
+5720,planta 1,exterior,3,151.0,True,False,Nueva España,chamartin,930700,961265.0,-30565.0
+15577,planta 3,exterior,2,69.0,False,False,Villaverde Alto,villaverde,149000,127888.97166666668,21111.02833333332
+6600,planta 1,interior,2,61.0,False,False,Trafalgar,chamberi,357000,274600.98,82399.02000000002
+9176,planta 5,exterior,3,124.0,True,False,Sanchinarro,hortaleza,570000,553873.29,16126.709999999963
+7899,planta 4,exterior,3,61.0,True,False,Pueblo Nuevo,ciudad lineal,155000,150925.88666666666,4074.113333333342
+10265,planta 5,exterior,3,68.0,False,False,Águilas,latina,159000,158380.0,620.0
+8202,planta 1,exterior,3,82.0,True,False,Peñagrande,fuencarral,340000,296806.245,43193.755000000005
+11246,planta 3,exterior,3,66.0,False,False,Numancia,puente-de-vallecas,137700,162274.65,-24574.649999999994
+6317,planta 7,exterior,5,630.0,True,True,Ático en Almagro,chamberi,7000000,3579601.666666666,3420398.333333334
+12737,planta 3,exterior,3,85.0,False,False,Canillejas,san-blas,198000,186998.635,11001.36499999999
+1069,planta 3,exterior,2,225.0,True,True,Recoletos,barrio de salamanca,2200000,2267750.0,-67750.0
+15628,planta 4,exterior,3,71.0,False,False,San Cristóbal,villaverde,105000,96554.66166666667,8445.338333333333
+11306,bajo,exterior,3,140.0,False,False,San Diego,puente-de-vallecas,224999,232159.9,-7160.899999999994
+1185,planta 2,exterior,4,375.0,True,False,Recoletos,barrio de salamanca,6200000,4235775.0,1964225.0
+12441,planta 1,exterior,4,181.0,True,True,Ibiza,retiro,1350000,1297280.0,52720.0
+7583,bajo,exterior,2,80.0,True,True,Quintana,ciudad lineal,346000,379440.0,-33440.0
+2363,planta 2,exterior,5,400.0,True,False,Recoletos,barrio de salamanca,3999000,3516150.0,482850.0
+8115,chalet,exterior,4,250.0,False,True,Chalet adosado en Arroyo del Fresno,fuencarral,850000,842490.0,7510.0
+8016,planta 8,exterior,1,60.0,True,False,San Pascual,ciudad lineal,189000,250499.82333333333,-61499.823333333334
+8170,bajo,exterior,3,126.0,True,True,Peñagrande,fuencarral,665000,590734.5,74265.5
+6972,planta 3,exterior,2,125.0,True,False,Trafalgar,chamberi,755000,785064.98,-30064.97999999998
+11574,planta 1,exterior,3,73.0,False,False,Numancia,puente-de-vallecas,130000,160243.13,-30243.130000000005
+9289,bajo,exterior,1,89.0,True,False,Virgen del Cortijo - Manoteras,hortaleza,188000,318292.0,-130292.0
+10608,planta 1,exterior,3,80.0,False,False,Aravaca,moncloa,320000,280735.0,39265.0
+9359,planta 4,exterior,2,116.0,True,False,Apóstol Santiago,hortaleza,580000,376455.0,203545.0
+1734,bajo,exterior,1,59.0,True,False,Guindalera,barrio de salamanca,140000,272959.0,-132959.0
+7354,planta 8,exterior,2,75.0,True,False,Concepción,ciudad lineal,240000,245265.9523809524,-5265.952380952396
+14623,planta 3,interior,2,83.0,True,False,Moscardó,usera,236000,227169.29,8830.709999999992
+8941,planta 3,exterior,2,60.0,True,False,Pinar del Rey,hortaleza,179900,209451.0,-29551.0
+9408,bajo,exterior,2,67.0,True,False,Canillas,hortaleza,255000,225345.19,29654.809999999998
+1455,planta 7,exterior,1,37.0,True,False,Goya,barrio de salamanca,230000,226820.0,3180.0
+10334,casa,exterior,6,488.0,False,True,Casa o chalet independiente en Aravaca,moncloa,1950000,2000440.0,-50440.0
+903,planta 1,exterior,4,250.0,True,False,Recoletos,barrio de salamanca,2650000,2384300.0,265700.0
+2656,planta 1,interior,3,71.0,True,False,Comillas,carabanchel,239000,180245.16666666663,58754.83333333337
+6848,planta 7,exterior,4,250.0,True,False,Ático en Almagro,chamberi,2000000,1764946.96,235053.04000000004
+15199,planta 1,exterior,2,90.0,True,True,Ensanche de Vallecas - La Gavia,villa-de-vallecas,285000,267532.22,17467.780000000028
+14816,bajo,exterior,3,90.0,True,False,Orcasitas,usera,150000,158420.56523809524,-8420.565238095238
+5816,planta 1,interior,1,40.0,False,False,Prosperidad,chamartin,180000,178546.50000000003,1453.499999999971
+14186,planta 1,exterior,1,41.0,False,False,Berruguete,tetuan,169500,164696.14285714284,4803.8571428571595
+4585,planta 2,exterior,3,94.0,False,False,Lavapiés-Embajadores,centro,383000,371419.66666666674,11580.333333333256
+7993,planta 3,exterior,2,54.0,False,False,Pueblo Nuevo,ciudad lineal,156000,153029.2666666667,2970.733333333308
+4576,bajo,exterior,1,50.0,True,False,Lavapiés-Embajadores,centro,249000,228567.94,20432.059999999998
+14555,planta 4,exterior,2,64.0,True,False,San Fermín,usera,132000,147998.0,-15998.0
+1335,chalet,exterior,5,135.0,False,False,Casa o chalet independiente en Guindalera,barrio de salamanca,639000,670652.48,-31652.47999999998
+898,planta 6,exterior,6,471.0,True,True,Recoletos,barrio de salamanca,4155000,4161685.8116883123,-6685.811688312329
+6197,planta 3,exterior,5,200.0,True,False,Gaztambide,chamberi,825000,825000.0,0.0
+5219,planta 3,exterior,3,82.0,False,False,Ciudad Jardín,chamartin,399000,328335.0,70665.0
+10772,bajo,exterior,2,95.0,True,False,Argüelles,moncloa,530000,417160.0,112840.0
+9728,planta 2,exterior,3,63.0,False,False,Los Cármenes,latina,137900,137495.3,404.70000000001164
+13158,planta 3,exterior,2,45.0,False,False,Hellín,san-blas,104999,109056.85,-4057.850000000006
+5436,planta 2,interior,1,70.0,True,False,Prosperidad,chamartin,233700,363070.71666666673,-129370.71666666673
+7810,planta 2,exterior,4,202.0,True,True,Colina,ciudad lineal,990000,1090099.0,-100099.0
+11927,bajo,exterior,2,50.0,True,False,Numancia,puente-de-vallecas,137000,166875.0,-29875.0
+618,bajo,exterior,3,101.0,True,False,Imperial,Arganzuela,299000,348577.97,-49577.96999999997
+4118,planta 2,exterior,2,162.0,False,False,Sol,centro,920000,917540.7142857143,2459.285714285681
+15099,planta 4,exterior,2,56.0,True,False,Ambroz,vicalvaro,129500,153087.9,-23587.899999999994
+9929,bajo,exterior,2,87.0,True,False,Puerta del Ángel,latina,220000,240489.26,-20489.26000000001
+15444,planta 6,exterior,2,111.0,True,True,Ensanche de Vallecas - La Gavia,villa-de-vallecas,346000,355650.68,-9650.679999999993
+12544,planta 6,exterior,2,104.0,True,False,Pacífico,retiro,456900,457244.0,-344.0
+7392,planta 3,exterior,1,71.0,True,True,San Juan Bautista,ciudad lineal,382000,355879.99,26120.01000000001
+13397,planta 2,exterior,3,105.0,True,False,Bellas Vistas,tetuan,425000,453658.0,-28658.0
+1913,bajo,exterior,3,104.0,True,False,Goya,barrio de salamanca,265000,554812.9,-289812.9
+9640,planta 2,exterior,3,92.0,True,False,Puerta del Ángel,latina,304000,248379.0,55621.0
+12202,planta 1,exterior,3,185.0,True,False,Pacífico,retiro,648900,660753.9933333334,-11853.993333333405
+10632,planta 1,exterior,3,216.0,True,True,Aravaca,moncloa,1350000,1230241.9400000002,119758.05999999982
+9283,planta 4,exterior,2,61.0,True,False,Canillas,hortaleza,289000,268939.97,20060.030000000028
+1421,planta 5,exterior,1,45.0,True,True,Goya,barrio de salamanca,367000,381640.99,-14640.98999999999
+15490,planta 1,exterior,4,141.0,True,True,Villaverde Alto,villaverde,205000,260352.67,-55352.67000000001
+6742,planta 2,exterior,3,121.0,True,False,Almagro,chamberi,850000,792725.8666666666,57274.13333333342
+289,planta 1,exterior,3,68.0,True,False,Acacias,Arganzuela,300000,301237.3333333334,-1237.3333333333721
+664,planta 3,exterior,3,132.0,True,True,Campo de las Naciones-Corralejos,barajas,550000,513470.0,36530.0
+8022,planta 3,exterior,2,150.0,True,True,Quintana,ciudad lineal,500000,475168.33333333326,24831.666666666744
+442,planta 1,exterior,1,65.0,True,True,Delicias,Arganzuela,360800,352835.0,7965.0
+12098,planta 6,exterior,2,138.0,True,True,Ático en Ibiza,retiro,880000,837165.0,42835.0
+11142,planta 3,exterior,3,59.0,True,False,Vinateros,moratalaz,169000,168454.52380952382,545.4761904761835
+5866,planta 1,exterior,4,245.0,True,True,Nueva España,chamartin,1350000,1268017.5,81982.5
+10795,planta 7,exterior,1,54.0,True,False,Argüelles,moncloa,280000,400840.0,-120840.0
+15423,planta 2,exterior,1,47.0,True,False,Ensanche de Vallecas - La Gavia,villa-de-vallecas,163500,123892.36,39607.64
+8065,planta 19,exterior,4,330.0,True,True,Costillares,ciudad lineal,1330000,1406761.0,-76761.0
+11990,planta 5,exterior,3,105.0,True,False,Pacífico,retiro,449000,566434.6333333333,-117434.6333333333
+6095,planta 5,exterior,4,229.0,True,False,Nuevos Ministerios-Ríos Rosas,chamberi,890000,1606909.91,-716909.9099999999
+2366,planta 3,interior,1,40.0,False,False,Goya,barrio de salamanca,330000,252576.85,77423.15
+15495,planta 14,exterior,4,115.0,True,False,Los Ángeles,villaverde,237000,242116.0,-5116.0
+15708,planta 4,interior,3,76.0,True,False,Villaverde Alto,villaverde,119000,155634.0,-36634.0
+5010,planta 1,exterior,3,111.0,True,False,Prosperidad,chamartin,570000,475853.58,94146.41999999998
+14368,planta 4,exterior,3,101.0,False,False,Moscardó,usera,370000,252496.91666666663,117503.08333333337
+7966,entreplanta,exterior,3,51.0,False,False,Pueblo Nuevo,ciudad lineal,122500,126288.36,-3788.3600000000006
+11547,bajo,exterior,1,65.0,False,False,Numancia,puente-de-vallecas,90000,92840.0,-2840.0
+9215,planta 8,exterior,3,212.0,True,True,Valdebebas - Valdefuentes,hortaleza,1000000,836742.76,163257.24
+2686,planta 4,exterior,4,106.0,True,False,San Isidro,carabanchel,365000,344104.0,20896.0
+12196,planta 7,interior,4,106.0,True,False,Ibiza,retiro,675000,599623.0,75377.0
+1336,planta 7,exterior,2,86.0,True,True,Ático en Goya,barrio de salamanca,800000,563489.2,236510.80000000005
+8647,bajo,exterior,3,42.0,False,False,Tres Olivos - Valverde,fuencarral,92400,127915.64666666667,-35515.64666666667
+7204,planta 12,exterior,7,413.0,True,True,Costillares,ciudad lineal,1700000,1398638.083333333,301361.916666667
+12881,planta 1,exterior,1,49.0,True,True,Rejas,san-blas,160000,186585.8,-26585.79999999999
+724,planta 3,exterior,2,138.0,True,True,Campo de las Naciones-Corralejos,barajas,475000,475900.0,-900.0
+1399,planta 3,exterior,4,144.0,True,False,Guindalera,barrio de salamanca,648000,613508.6566666667,34491.343333333265
+9068,planta 1,exterior,1,80.0,True,True,Pinar del Rey,hortaleza,199900,244080.908,-44180.907999999996
+12827,planta 4,exterior,3,120.0,True,True,Rejas,san-blas,389000,377819.3333333334,11180.666666666628
+12364,planta 1,exterior,4,280.0,True,True,Jerónimos,retiro,2000000,1914558.3333333335,85441.66666666651
+4704,planta 3,exterior,5,300.0,False,False,Palacio,centro,2199000,1286491.0,912509.0
+12579,planta 3,exterior,3,106.0,True,False,Pacífico,retiro,599000,569899.0,29101.0
+5078,planta 7,exterior,3,102.0,True,False,Prosperidad,chamartin,479000,498081.1333333333,-19081.133333333302
+15847,planta 3,exterior,3,61.0,False,False,Los Ángeles,villaverde,120000,125420.30952380951,-5420.309523809512
+4541,planta 3,interior,2,50.0,False,False,Palacio,centro,235000,285914.99,-50914.98999999999
+943,entreplanta,exterior,2,80.0,True,False,Goya,barrio de salamanca,655000,639413.3333333334,15586.666666666628
+4611,planta 1,interior,1,30.0,False,False,Lavapiés-Embajadores,centro,124500,127861.0,-3361.0
+10267,bajo,exterior,1,45.0,True,False,Puerta del Ángel,latina,184000,158277.82,25722.179999999993
+6508,bajo,interior,3,179.0,True,False,Almagro,chamberi,850000,910599.0,-60599.0
+6684,planta 4,exterior,3,90.0,True,False,Arapiles,chamberi,579000,552770.0,26230.0
+11462,planta 5,exterior,2,92.0,True,True,Palomeras sureste,puente-de-vallecas,350000,266089.0,83911.0
+12345,planta 1,exterior,3,119.0,True,False,Ibiza,retiro,690000,674510.0,15490.0
+4414,planta 2,exterior,2,38.0,False,False,Malasaña-Universidad,centro,189000,198990.0,-9990.0
+12808,planta 4,exterior,2,60.0,False,False,Hellín,san-blas,121000,127507.34666666668,-6507.346666666679
+13112,planta 4,exterior,2,93.0,True,True,Rejas,san-blas,305000,283833.33333333343,21166.66666666657
+14883,planta 2,exterior,3,83.0,False,False,Ambroz,vicalvaro,162000,198256.59999999998,-36256.59999999998
+12810,planta 1,exterior,4,100.0,False,False,Arcos,san-blas,217260,257041.6666666667,-39781.666666666686
+13849,planta 4,exterior,4,280.0,True,True,Cuatro Caminos,tetuan,1325000,1080691.99,244308.01
+3291,bajo,exterior,2,123.0,True,False,San Isidro,carabanchel,280000,308695.29,-28695.28999999998
+10704,bajo,exterior,1,88.0,True,True,Valdemarín,moncloa,319900,430047.8,-110147.79999999999
+2739,bajo,exterior,2,46.0,False,False,San Isidro,carabanchel,75000,77557.23809523809,-2557.238095238092
+1637,planta 3,exterior,3,390.0,True,False,Castellana,barrio de salamanca,4750000,4655450.0,94550.0
+15217,planta 1,exterior,3,74.0,False,True,Casco Histórico de Vallecas,villa-de-vallecas,180000,156601.0,23399.0
+14493,planta 1,exterior,3,70.0,False,False,Pradolongo,usera,210000,156413.9,53586.100000000006
+3908,planta 4,exterior,2,112.0,True,False,Chueca-Justicia,centro,995000,976750.0,18250.0
+2467,planta 3,exterior,3,160.0,True,True,Lista,barrio de salamanca,960000,1010490.0,-50490.0
+5656,planta 1,exterior,4,135.0,True,False,Prosperidad,chamartin,440000,446189.0,-6189.0
+7672,planta 7,exterior,3,126.0,True,False,San Pascual,ciudad lineal,525000,539923.3333333334,-14923.333333333372
+11726,planta 1,exterior,3,102.0,True,False,Numancia,puente-de-vallecas,290000,286698.1,3301.9000000000233
+854,planta 3,exterior,4,200.0,True,False,Goya,barrio de salamanca,1600000,1272873.3333333335,327126.6666666665
+4665,planta 1,exterior,4,140.0,True,False,Malasaña-Universidad,centro,559000,646902.57,-87902.56999999995
+4915,planta 2,exterior,2,95.0,True,False,El Viso,chamartin,790000,725210.0,64790.0
+7547,planta 4,exterior,3,62.0,False,False,Pueblo Nuevo,ciudad lineal,155000,153291.40476190476,1708.5952380952367
+539,planta 2,interior,2,43.0,False,False,Palos de Moguer,Arganzuela,175000,180359.0,-5359.0
+4941,planta 1,exterior,5,222.0,True,False,El Viso,chamartin,1490000,1477780.0,12220.0
+4918,chalet,exterior,4,333.0,False,True,Chalet adosado en Nueva España,chamartin,2300000,2234990.0,65010.0
+13644,bajo,exterior,2,89.0,True,False,Ventilla-Almenara,tetuan,480000,302504.0,177496.0
+10209,planta 3,exterior,3,80.0,False,False,Lucero,latina,165000,148017.66666666666,16982.333333333343
+12242,planta 1,exterior,3,153.0,True,False,Pacífico,retiro,795000,744185.99,50814.01000000001
+3854,planta 3,interior,1,41.0,False,False,Palacio,centro,157000,161359.0,-4359.0
+9461,chalet,exterior,5,270.0,False,True,Chalet adosado en Conde Orgaz-Piovera,hortaleza,1300000,1429850.0,-129850.0
+8383,chalet,exterior,8,636.0,False,True,Chalet adosado en Peñagrande,fuencarral,1237000,1294257.28,-57257.28000000003
+8538,planta 2,exterior,3,146.0,True,False,La Paz,fuencarral,549000,531194.3,17805.699999999953
+3733,planta 2,exterior,4,136.0,True,False,Palacio,centro,850000,774004.9966666666,75995.00333333341
+1277,planta 2,exterior,4,199.0,True,False,Lista,barrio de salamanca,1795000,1222706.0,572294.0
+5144,planta 4,exterior,4,194.0,True,False,Nueva España,chamartin,1076900,1297522.0,-220622.0
+8665,planta 2,exterior,4,125.0,True,True,Peñagrande,fuencarral,468000,539642.6666666667,-71642.66666666674
+13411,planta 1,interior,1,51.0,True,True,Cuzco-Castillejos,tetuan,299000,351928.0,-52928.0
+11169,planta 3,exterior,3,73.0,False,False,Vinateros,moratalaz,195000,179556.85714285716,15443.14285714284
+10173,bajo,exterior,3,69.0,False,False,Puerta del Ángel,latina,155000,156407.60666666666,-1407.6066666666593
+3709,planta 1,exterior,3,110.0,False,False,Malasaña-Universidad,centro,565000,579679.0,-14679.0
+15460,planta 1,exterior,3,65.0,False,False,Casco Histórico de Vallecas,villa-de-vallecas,119000,130927.0,-11927.0
+417,planta 6,exterior,3,103.0,True,True,Legazpi,Arganzuela,580000,574334.0533333333,5665.946666666656
+2297,planta 1,exterior,4,165.0,True,True,Guindalera,barrio de salamanca,650000,684929.63,-34929.630000000005
+7981,planta 1,exterior,3,107.0,False,False,Pueblo Nuevo,ciudad lineal,279000,205015.07,73984.93
+1567,planta 6,exterior,4,247.0,True,False,Castellana,barrio de salamanca,2650000,2665700.0,-15700.0
+8061,planta 1,exterior,1,39.0,True,False,Colina,ciudad lineal,240000,245715.0,-5715.0
+14037,planta 5,interior,1,25.0,True,False,Cuatro Caminos,tetuan,160000,133683.0,26317.0
+10620,planta 4,exterior,3,69.0,False,False,Valdezarza,moncloa,200000,239499.0,-39499.0
+14789,bajo,interior,1,49.0,False,False,Zofío,usera,80000,129307.41333333334,-49307.413333333345
+8104,planta 3,exterior,3,67.0,False,False,Pueblo Nuevo,ciudad lineal,144900,176036.5,-31136.5
+7374,planta 1,exterior,3,120.0,True,True,Costillares,ciudad lineal,560000,565590.02,-5590.020000000019
+6791,planta 5,interior,4,104.0,True,False,Almagro,chamberi,710000,696713.0,13287.0
+14359,planta 3,exterior,3,100.0,True,False,Moscardó,usera,235000,237615.89,-2615.890000000014
+8845,planta 3,exterior,2,68.0,True,True,Canillas,hortaleza,305000,330109.2,-25109.20000000001
+11164,bajo,exterior,1,32.0,False,False,Marroquina,moratalaz,135000,139186.5,-4186.5
+8283,bajo,exterior,2,47.0,False,False,Pilar,fuencarral,175000,150099.99,24900.01000000001
+7271,planta 3,exterior,2,65.0,False,False,Ventas,ciudad lineal,169000,154304.49,14695.51000000001
+13211,planta 2,exterior,1,65.0,True,True,Rejas,san-blas,220000,266099.0,-46099.0
+13483,planta 1,exterior,3,100.0,True,True,Cuatro Caminos,tetuan,565000,525126.83,39873.17000000004
+15470,bajo,exterior,1,32.0,False,False,Ensanche de Vallecas - La Gavia,villa-de-vallecas,70000,113701.66666666669,-43701.666666666686
+3456,planta 1,exterior,3,84.0,False,False,Opañel,carabanchel,186000,172814.7,13185.299999999988
+11885,planta 2,exterior,4,131.0,False,False,Numancia,puente-de-vallecas,175000,210475.99,-35475.98999999999
+8933,planta 11,exterior,3,164.0,True,True,Sanchinarro,hortaleza,404000,626991.96,-222991.95999999996
+13556,planta 4,interior,2,49.0,False,False,Bellas Vistas,tetuan,170000,160942.82333333333,9057.176666666666
+10523,planta 6,exterior,5,210.0,True,True,Casa de Campo,moncloa,890000,1026300.0,-136300.0
+12489,planta 3,interior,1,37.0,True,False,Pacífico,retiro,195000,207849.0,-12849.0
+5500,planta 1,exterior,5,222.0,True,False,El Viso,chamartin,1490000,1477780.0,12220.0
+12062,bajo,exterior,3,280.0,True,True,Jerónimos,retiro,2450000,1970454.3333333335,479545.6666666665
+7387,bajo,exterior,1,60.0,True,False,Concepción,ciudad lineal,149000,226737.0,-77737.0
+1953,planta 6,exterior,3,121.0,True,False,Lista,barrio de salamanca,1000000,862075.0,137925.0
+1793,bajo,exterior,2,52.0,False,False,Goya,barrio de salamanca,259000,302295.94,-43295.94
+1409,planta 2,exterior,3,145.0,True,False,Recoletos,barrio de salamanca,1500000,1644900.0,-144900.0
+10643,planta 3,exterior,3,127.0,True,True,Ciudad Universitaria,moncloa,750000,638329.0,111671.0
+6678,planta 3,exterior,1,90.0,True,False,Almagro,chamberi,625000,636059.0,-11059.0
+3112,planta 3,exterior,3,181.0,True,True,Ático en Puerta Bonita,carabanchel,450000,819882.99,-369882.99
+14044,planta 6,exterior,4,131.0,True,False,Ventilla-Almenara,tetuan,499000,487812.7,11187.299999999988
+10475,casa,exterior,7,825.0,False,True,El Plantío,moncloa,3200000,2736680.0,463320.0
+2860,planta 3,exterior,2,65.0,True,False,San Isidro,carabanchel,185000,238594.78,-53594.78
+12594,planta 1,exterior,1,75.0,True,True,Rosas,san-blas,268000,288804.0,-20804.0
+11314,planta 1,exterior,1,76.0,True,False,San Diego,puente-de-vallecas,97800,246033.23333333337,-148233.23333333337
+13579,planta 1,exterior,3,60.0,False,True,Valdeacederas,tetuan,240000,205880.91,34119.09
+8220,planta 2,exterior,3,121.0,True,True,Las Tablas,fuencarral,560000,494003.5238095239,65996.4761904761
+4341,planta 1,exterior,4,384.0,True,True,Huertas-Cortes,centro,1800000,2001490.0,-201490.0
+15835,planta 4,exterior,3,75.0,False,False,Villaverde Alto,villaverde,119000,120874.06166666668,-1874.0616666666756
+4686,planta 3,interior,1,37.0,True,False,Lavapiés-Embajadores,centro,220000,194750.0,25250.0
+9913,planta 7,exterior,3,95.0,True,False,Águilas,latina,216000,228974.99,-12974.98999999999
+14311,planta 1,interior,1,46.0,True,False,Cuatro Caminos,tetuan,185000,283337.3333333333,-98337.33333333331
+2736,planta 2,exterior,3,122.0,True,True,Puerta Bonita,carabanchel,315000,314831.0,169.0
+2711,planta 3,exterior,2,49.0,False,False,Vista Alegre,carabanchel,110000,116414.95333333334,-6414.953333333338
+2314,planta 2,exterior,3,287.0,True,True,Castellana,barrio de salamanca,2295000,2184356.666666667,110643.33333333302
+7795,planta 1,exterior,3,63.0,True,False,Pueblo Nuevo,ciudad lineal,150000,154469.33333333334,-4469.333333333343
+13388,bajo,exterior,1,59.0,False,False,Valdeacederas,tetuan,150000,179617.99,-29617.98999999999
+3354,planta 2,exterior,3,95.0,True,False,Comillas,carabanchel,299000,223343.99,75656.01000000001
+7788,planta 6,exterior,3,125.0,True,True,San Pascual,ciudad lineal,325000,614361.5,-289361.5
+8575,casa,exterior,3,328.0,False,True,Tres Olivos - Valverde,fuencarral,480000,766741.0,-286741.0
+8437,planta 2,exterior,3,252.0,True,True,Mirasierra,fuencarral,1065000,1452777.0,-387777.0
+9185,planta 5,exterior,4,132.0,True,True,Sanchinarro,hortaleza,560000,594280.0,-34280.0
+10070,bajo,exterior,2,54.0,False,False,Puerta del Ángel,latina,157200,156221.0,979.0
+10237,planta 4,exterior,1,60.0,False,False,Campamento,latina,104900,123611.0,-18711.0
+2421,planta 6,exterior,3,127.0,True,False,Lista,barrio de salamanca,950000,979898.0,-29898.0
+1977,planta 1,interior,2,52.0,True,False,Castellana,barrio de salamanca,420000,425456.04291541775,-5456.042915417755
+7845,planta 6,exterior,4,164.0,True,False,Costillares,ciudad lineal,639000,642312.6547700666,-3312.6547700666124
+3215,planta 9,exterior,3,88.0,True,False,Opañel,carabanchel,245000,244917.84,82.16000000000349
+2605,planta 5,exterior,2,140.0,True,False,Goya,barrio de salamanca,1495000,1185323.0,309677.0
+3510,planta 3,exterior,3,84.0,True,False,Opañel,carabanchel,230000,216574.93,13425.070000000007
+7455,planta 3,exterior,2,95.0,True,True,San Pascual,ciudad lineal,352000,425331.0,-73331.0
+11815,planta 3,exterior,3,75.0,False,False,Palomeras Bajas,puente-de-vallecas,157200,145006.40666666668,12193.593333333323
+2407,bajo,exterior,2,97.0,True,False,Dúplex en Lista,barrio de salamanca,599800,511482.0,88318.0
+8045,planta 4,exterior,2,78.0,True,False,Pueblo Nuevo,ciudad lineal,295000,244387.0,50613.0
+10790,planta 5,exterior,7,261.0,True,False,Argüelles,moncloa,1100000,1337040.0,-237040.0
+1852,planta 2,exterior,3,269.0,True,True,Goya,barrio de salamanca,2100000,1504260.0,595740.0
+9773,planta 4,exterior,2,69.0,False,False,Puerta del Ángel,latina,125000,173227.72666666665,-48227.726666666655
+10376,casa,exterior,16,1.308,False,True,Casa o chalet independiente en Aravaca,moncloa,2800000,3772476.3233333337,-972476.3233333337
+9893,bajo,exterior,2,75.0,True,False,Águilas,latina,157000,173309.49,-16309.48999999999
+8641,planta 4,exterior,4,140.0,True,True,Pilar,fuencarral,425000,416790.0,8210.0
+14996,planta 6,exterior,3,118.0,True,True,El Cañaveral,vicalvaro,406900,385183.85,21716.150000000023
+1533,planta 1,exterior,5,225.0,True,False,Guindalera,barrio de salamanca,900000,1009090.0,-109090.0
+11572,planta 1,exterior,2,58.0,True,False,Numancia,puente-de-vallecas,127000,138799.69,-11799.690000000002
+6061,planta 7,exterior,6,229.0,True,True,Vallehermoso,chamberi,940000,1084757.99,-144757.99
+5534,planta 3,exterior,4,310.0,True,True,Nueva España,chamartin,2300000,2317600.0,-17600.0
+1956,bajo,exterior,2,50.0,False,False,Fuente del Berro,barrio de salamanca,170000,224831.88100000002,-54831.88100000002
+11172,bajo,exterior,2,51.0,True,False,Media Legua,moratalaz,175000,154934.75,20065.25
+11503,bajo,exterior,2,59.0,True,False,Numancia,puente-de-vallecas,159500,152513.0,6987.0
+524,planta 1,exterior,2,49.0,True,False,Delicias,Arganzuela,229100,223381.85,5718.149999999994
+15346,planta 2,exterior,3,75.0,False,False,Casco Histórico de Vallecas,villa-de-vallecas,154900,142342.99999999997,12557.00000000003
+9229,planta 1,exterior,4,178.0,True,True,Palomas,hortaleza,860900,850786.54,10113.459999999963
+5696,planta 4,exterior,3,89.0,True,False,Prosperidad,chamartin,395000,436825.0,-41825.0
+12976,planta 1,exterior,2,80.0,True,False,Canillejas,san-blas,299000,225633.71354761903,73366.28645238097
+6769,planta 4,exterior,5,596.0,True,True,Nuevos Ministerios-Ríos Rosas,chamberi,3190000,3209200.0,-19200.0
+12669,planta 2,exterior,3,69.0,False,False,Simancas,san-blas,215000,169852.83333333337,45147.16666666663
+12748,planta 1,exterior,2,64.0,False,False,Simancas,san-blas,145000,159428.31333333335,-14428.313333333354
+13577,planta 1,interior,1,36.0,False,False,Valdeacederas,tetuan,165000,140675.0,24325.0
+7515,planta 1,exterior,2,81.0,True,True,Costillares,ciudad lineal,395000,398872.66666666674,-3872.6666666667443
+10981,planta 1,exterior,4,342.0,True,True,Argüelles,moncloa,2300000,1550301.0,749699.0
+10277,planta 3,exterior,2,100.0,False,False,Puerta del Ángel,latina,300000,211411.83,88588.17000000001
+2011,planta 4,exterior,3,176.0,True,False,Castellana,barrio de salamanca,1395000,1544550.0,-149550.0
+5567,planta 7,exterior,4,235.0,True,False,El Viso,chamartin,2400000,1738345.0,661655.0
+1778,planta 6,exterior,5,656.0,True,True,Castellana,barrio de salamanca,5300000,6067000.0,-767000.0
+13503,planta 3,exterior,1,68.0,True,False,Valdeacederas,tetuan,310000,287752.88,22247.119999999995
+9313,planta 4,exterior,3,60.0,False,False,Pinar del Rey,hortaleza,159000,173539.6,-14539.600000000006
+6157,planta 6,exterior,6,297.0,True,True,Almagro,chamberi,1900000,2082520.0,-182520.0
+7305,planta 4,exterior,3,98.0,True,True,Costillares,ciudad lineal,539000,505617.0,33383.0
+5881,planta 1,exterior,3,130.0,True,False,Gaztambide,chamberi,820000,710875.3233333335,109124.67666666652
+2746,planta 1,exterior,3,74.0,False,False,Vista Alegre,carabanchel,140500,140271.0,229.0
+11466,planta 4,exterior,2,65.0,True,False,Palomeras sureste,puente-de-vallecas,125000,128129.0,-3129.0
+3103,planta 8,interior,3,93.0,True,False,Comillas,carabanchel,340000,296860.1,43139.90000000002
+8003,planta 5,exterior,2,59.0,False,False,Ventas,ciudad lineal,113400,131389.6,-17989.600000000006
+8551,planta 5,exterior,3,201.0,True,False,Peñagrande,fuencarral,971000,952846.95,18153.050000000047
+13677,planta 2,exterior,4,126.0,True,False,Cuzco-Castillejos,tetuan,530000,729668.0,-199668.0
+6762,planta 3,exterior,5,202.0,True,False,Vallehermoso,chamberi,825000,1084975.0,-259975.0
+12936,planta 3,exterior,1,100.0,True,False,Simancas,san-blas,152999,232418.97,-79419.97
+6575,planta 1,interior,2,92.0,True,True,Vallehermoso,chamberi,722500,681132.0,41368.0
+7336,planta 2,exterior,2,102.0,True,True,Concepción,ciudad lineal,560000,388827.87,171172.13
+7266,planta 2,exterior,4,114.0,True,False,Colina,ciudad lineal,650000,565864.0,84136.0
+13562,planta 15,exterior,1,74.0,True,False,Cuatro Caminos,tetuan,460000,440725.0,19275.0
+8086,planta 1,interior,1,41.0,False,False,Ventas,ciudad lineal,99000,142869.0,-43869.0
+661,planta 2,exterior,3,85.0,True,False,Alameda de Osuna,barajas,340000,362226.69,-22226.690000000002
+10831,bajo,exterior,3,122.0,True,False,Valdezarza,moncloa,700000,524037.35,175962.65000000002
+9044,planta 2,exterior,3,150.0,True,True,Sanchinarro,hortaleza,660000,632977.01,27022.98999999999
+2486,planta 2,exterior,8,528.0,True,False,Recoletos,barrio de salamanca,4450000,4440400.0,9600.0
+14405,bajo,exterior,2,67.0,True,True,Orcasitas,usera,195000,247866.87,-52866.869999999995
+697,bajo,exterior,3,89.0,True,False,Alameda de Osuna,barajas,365000,336236.91,28763.090000000026
+4785,planta 3,interior,2,75.0,True,False,Sol,centro,450000,440856.99,9143.01000000001
+2107,planta 5,exterior,3,140.0,True,True,Guindalera,barrio de salamanca,575000,619012.0,-44012.0
+15038,planta 4,exterior,3,62.0,False,False,Ambroz,vicalvaro,129000,127549.4,1450.6000000000058
+13116,planta 1,exterior,2,46.0,False,False,Simancas,san-blas,126700,124552.0,2148.0
+4634,planta 1,exterior,5,162.0,False,False,Palacio,centro,750000,908616.4285714286,-158616.42857142864
+4921,planta 1,exterior,3,134.0,True,False,El Viso,chamartin,643000,913935.0,-270935.0
+8983,planta 1,exterior,4,172.0,True,False,Conde Orgaz-Piovera,hortaleza,1132000,1062190.12,69809.87999999989
+2508,planta 1,exterior,3,108.0,True,False,Lista,barrio de salamanca,650000,682468.125,-32468.125
+8717,planta 1,exterior,2,68.0,True,False,Pilar,fuencarral,239000,231090.5,7909.5
+10249,planta 3,interior,4,62.0,False,False,Puerta del Ángel,latina,94000,166529.0,-72529.0
+5942,planta 4,interior,3,82.0,True,False,Nuevos Ministerios-Ríos Rosas,chamberi,499000,490580.33333333326,8419.666666666744
+8577,planta 3,exterior,1,63.0,True,True,Peñagrande,fuencarral,275000,372339.98,-97339.97999999998
+4936,planta 9,exterior,5,327.0,True,True,Nueva España,chamartin,2300000,2300600.0,-600.0
+7648,planta 2,exterior,3,73.0,False,False,Quintana,ciudad lineal,194000,209875.9866666667,-15875.986666666693
+1137,planta 5,exterior,4,152.0,True,False,Goya,barrio de salamanca,799000,806070.0,-7070.0
+7667,planta 1,exterior,2,71.0,True,False,Concepción,ciudad lineal,279999,291754.06666666665,-11755.066666666651
+8182,planta 3,exterior,4,145.0,True,True,La Paz,fuencarral,570000,569990.0,10.0
+14153,planta 7,exterior,1,42.0,True,True,Cuzco-Castillejos,tetuan,350000,379635.98,-29635.97999999998
+1975,planta 1,interior,1,41.0,False,False,Castellana,barrio de salamanca,340000,304486.8825,35513.11749999999
+449,planta 2,exterior,2,57.0,True,False,Palos de Moguer,Arganzuela,210000,247230.32333333333,-37230.323333333334
+9017,planta 1,exterior,3,88.0,False,False,Pinar del Rey,hortaleza,269000,259770.7,9229.299999999988
+6877,planta 3,exterior,5,460.0,True,False,Almagro,chamberi,3250000,3280920.0,-30920.0
+6440,planta 4,exterior,5,299.0,True,True,Almagro,chamberi,1850000,2228190.0,-378190.0
+45,planta 1,exterior,3,95.0,True,False,Chopera,Arganzuela,390000,353691.5714285714,36308.42857142858
+9077,planta 8,exterior,2,96.0,True,True,Virgen del Cortijo - Manoteras,hortaleza,450000,414640.8333333334,35359.16666666663
+7782,planta 4,exterior,2,98.0,True,True,Pueblo Nuevo,ciudad lineal,550000,336173.56,213826.44
+12410,planta 2,exterior,4,158.0,True,False,Pacífico,retiro,645000,652148.99,-7148.989999999991
+9503,planta 4,exterior,4,178.0,False,False,Palomas,hortaleza,860900,852269.3,8630.699999999953
+11993,planta 1,exterior,2,179.0,True,True,Niño Jesús,retiro,820000,819526.5,473.5
+4221,planta 4,exterior,5,142.0,False,False,Huertas-Cortes,centro,830000,619451.0,210549.0
+2019,planta 2,exterior,3,135.0,True,False,Lista,barrio de salamanca,990000,825750.0,164250.0
+8939,planta 4,exterior,4,130.0,True,True,Sanchinarro,hortaleza,645000,592259.9,52740.09999999998
+9079,planta 3,exterior,2,80.0,True,True,Sanchinarro,hortaleza,415000,401841.6666666666,13158.333333333372
+4857,planta 5,exterior,5,283.0,True,True,Bernabéu-Hispanoamérica,chamartin,1650000,1534860.0,115140.0
+13530,planta 2,exterior,2,60.0,True,False,Berruguete,tetuan,222000,226854.11904761902,-4854.119047619024
+12830,planta 1,exterior,1,65.0,True,True,Simancas,san-blas,265000,266497.0,-1497.0
+14283,bajo,interior,1,38.0,True,False,Bellas Vistas,tetuan,174900,169228.5,5671.5
+10994,planta 2,exterior,3,90.0,True,False,Valdezarza,moncloa,257900,345093.99,-87193.98999999999
+8948,planta 3,exterior,4,166.0,True,True,Conde Orgaz-Piovera,hortaleza,820000,1119612.04,-299612.04000000004
+2820,bajo,exterior,3,60.0,True,False,Comillas,carabanchel,198000,156085.85,41914.149999999994
+12107,planta 2,interior,3,90.0,True,False,Ibiza,retiro,575000,531067.5,43932.5
+603,bajo,exterior,1,104.0,True,True,Chopera,Arganzuela,349000,353718.0,-4718.0
+9631,planta 7,exterior,3,78.0,True,False,Los Cármenes,latina,339000,280310.0,58690.0
+4151,bajo,interior,2,48.0,False,False,Lavapiés-Embajadores,centro,159000,189724.0,-30724.0
+5222,planta 1,exterior,3,145.0,True,False,El Viso,chamartin,799000,887300.5,-88300.5
+7875,planta 1,exterior,3,101.0,True,False,Concepción,ciudad lineal,260000,375816.5333333334,-115816.53333333338
+15185,planta 3,exterior,1,53.0,False,False,Casco Histórico de Vallecas,villa-de-vallecas,170000,123317.6666666667,46682.3333333333
+358,planta 1,interior,2,81.0,True,False,Acacias,Arganzuela,135000,354601.33333333326,-219601.33333333326
+1174,planta 2,interior,2,36.0,True,False,Goya,barrio de salamanca,292500,242279.0,50221.0
+5819,bajo,exterior,2,62.0,True,False,El Viso,chamartin,324500,368519.3333333334,-44019.33333333337
+4661,planta 4,exterior,3,262.0,True,False,Chueca-Justicia,centro,2250000,2267500.0,-17500.0
+2202,planta 2,exterior,4,320.0,True,False,Lista,barrio de salamanca,2700000,2588550.0,111450.0
+14652,bajo,exterior,2,58.0,False,False,Pradolongo,usera,122700,125683.3,-2983.300000000003
+15603,planta 2,exterior,3,90.0,False,False,Villaverde Alto,villaverde,159900,168774.0,-8874.0
+1900,planta 3,exterior,8,730.0,True,False,Recoletos,barrio de salamanca,6570000,7805666.666666666,-1235666.666666666
+8612,planta 4,exterior,2,62.0,True,False,Pilar,fuencarral,210000,239850.0,-29850.0
+15748,planta 4,exterior,3,65.0,False,False,Los Ángeles,villaverde,132800,119132.83333333331,13667.166666666686
+9655,planta 2,exterior,2,71.0,True,False,Aluche,latina,168000,166088.1,1911.8999999999942
+4735,planta 5,exterior,2,49.0,True,False,Sol,centro,425000,425000.0,0.0
+10878,planta 1,interior,5,146.0,True,False,Argüelles,moncloa,660000,783705.0,-123705.0
+11190,planta 3,exterior,2,65.0,False,False,Vinateros,moratalaz,195000,188733.0,6267.0
+1250,planta 4,exterior,3,143.0,True,False,Castellana,barrio de salamanca,950000,1389150.0,-439150.0
+6709,planta 1,exterior,4,177.0,True,False,Almagro,chamberi,925000,1197450.0,-272450.0
+7885,planta 1,exterior,3,59.0,False,False,Ventas,ciudad lineal,153400,152860.5,539.5
+14675,bajo,exterior,3,67.0,False,False,Zofío,usera,121500,122361.34,-861.3399999999965
+6854,planta 6,exterior,4,296.0,True,False,Almagro,chamberi,1900000,1968990.0,-68990.0
+6530,planta 6,exterior,4,193.0,True,False,Arapiles,chamberi,790000,947973.3333333335,-157973.3333333335
+6852,planta 5,exterior,3,154.0,True,False,Almagro,chamberi,1450000,1412400.0,37600.0
+6054,planta 2,exterior,7,320.0,True,False,Nuevos Ministerios-Ríos Rosas,chamberi,1600000,1523508.6666666665,76491.33333333349
+4066,planta 3,exterior,2,100.0,True,False,Malasaña-Universidad,centro,630000,651780.0,-21780.0
+3290,planta 1,exterior,1,43.0,True,False,Comillas,carabanchel,155000,179141.44,-24141.440000000002
+4354,bajo,interior,1,20.0,False,False,Lavapiés-Embajadores,centro,75000,110841.0,-35841.0
+12086,planta 6,exterior,2,103.0,True,False,Pacífico,retiro,443500,449120.00952380954,-5620.009523809538
+11431,planta 2,exterior,2,51.0,False,False,Portazgo,puente-de-vallecas,113000,121512.13333333332,-8512.133333333317
+14281,bajo,interior,2,36.0,False,False,Valdeacederas,tetuan,128000,138234.0,-10234.0
+12809,planta 10,exterior,3,95.0,True,False,Amposta,san-blas,199000,190049.89,8950.109999999986
+6136,planta 6,exterior,4,216.0,True,False,Vallehermoso,chamberi,1098000,1163027.98,-65027.97999999998
+4094,planta 3,exterior,3,93.0,True,False,Lavapiés-Embajadores,centro,399500,456469.98,-56969.97999999998
+10666,planta 4,interior,2,70.0,True,False,Casa de Campo,moncloa,350000,320300.0,29700.0
+7366,chalet,exterior,4,140.0,False,False,Concepción,ciudad lineal,750000,520849.0,229151.0
+8972,planta 2,exterior,4,178.0,True,True,Valdebebas - Valdefuentes,hortaleza,829000,785967.56,43032.439999999944
+1050,planta 4,exterior,3,233.0,True,False,Recoletos,barrio de salamanca,2350000,2484445.2380952383,-134445.23809523834
+7293,planta 1,exterior,4,117.0,True,True,Pueblo Nuevo,ciudad lineal,350000,332134.5,17865.5
+4263,planta 3,interior,1,41.0,False,False,Palacio,centro,157000,161359.0,-4359.0
+13141,planta 2,exterior,2,77.0,True,False,Canillejas,san-blas,234900,238146.89738095237,-3246.897380952374
+4895,planta 3,exterior,4,250.0,True,True,Dúplex en Nueva España,chamartin,2600000,2250776.0,349224.0
+1866,planta 4,exterior,4,112.0,True,False,Goya,barrio de salamanca,799000,813360.0,-14360.0
+11800,planta 1,exterior,3,61.0,False,False,Portazgo,puente-de-vallecas,115000,116416.65333333334,-1416.6533333333355
+4438,planta 4,exterior,4,56.0,False,False,Dúplex en Malasaña-Universidad,centro,470000,273186.99,196813.01
+1002,bajo,exterior,2,69.0,True,True,Fuente del Berro,barrio de salamanca,449000,398217.7657142857,50782.23428571428
+14345,planta 3,interior,1,44.0,True,False,Cuatro Caminos,tetuan,179900,279190.0,-99290.0
+2001,planta 1,exterior,2,80.0,True,False,Castellana,barrio de salamanca,750000,698090.0,51910.0
+10653,planta 2,exterior,3,152.0,True,True,Valdemarín,moncloa,785000,874684.2142857143,-89684.21428571432
+8267,planta 6,exterior,2,50.0,True,False,Pilar,fuencarral,110000,240310.0,-130310.0
+5670,planta 7,exterior,2,105.0,True,True,Bernabéu-Hispanoamérica,chamartin,750000,715784.6466666667,34215.353333333274
+2430,planta 2,exterior,3,157.0,True,False,Goya,barrio de salamanca,1175000,1243433.3333333335,-68433.33333333349
+4627,planta 4,exterior,4,142.0,True,False,Lavapiés-Embajadores,centro,650000,641010.8,8989.199999999953
+1207,planta 1,exterior,2,115.0,True,False,Dúplex en Recoletos,barrio de salamanca,745000,998687.99,-253687.99
+3177,bajo,interior,2,56.0,False,False,San Isidro,carabanchel,119000,135944.9,-16944.899999999994
+5145,planta 1,exterior,4,117.0,True,False,Ciudad Jardín,chamartin,485000,514104.94,-29104.940000000002
+7263,bajo,exterior,2,57.0,True,False,Quintana,ciudad lineal,200000,187633.46,12366.540000000008
+14360,planta 1,exterior,3,65.0,False,False,Pradolongo,usera,148000,148121.62333333335,-121.62333333335118
+81,planta 1,interior,1,53.0,True,False,Chopera,Arganzuela,155000,219757.97,-64757.97
+12258,planta 2,exterior,3,119.0,True,False,Pacífico,retiro,540000,476820.0,63180.0
+11386,planta 7,exterior,2,77.0,True,True,Numancia,puente-de-vallecas,255000,255031.31,-31.30999999999767
+8550,planta 12,exterior,4,160.0,True,True,Tres Olivos - Valverde,fuencarral,469900,489924.0,-20024.0
+3679,planta 2,exterior,2,59.0,False,False,Puerta Bonita,carabanchel,136000,120123.79,15876.210000000006
+15060,planta 1,exterior,3,101.0,True,True,Los Berrocales,vicalvaro,203094,477735.03,-274641.03
+1489,planta 5,interior,2,93.0,True,False,Goya,barrio de salamanca,540000,607961.0,-67961.0
+11799,bajo,exterior,3,97.0,True,False,Palomeras sureste,puente-de-vallecas,163000,165720.0,-2720.0
+320,planta 4,exterior,4,121.0,True,False,Palos de Moguer,Arganzuela,555000,499114.5,55885.5
+6531,planta 5,exterior,5,457.0,True,True,Almagro,chamberi,4200000,3987350.0,212650.0
+4040,planta 2,interior,2,36.0,False,False,Lavapiés-Embajadores,centro,156000,156180.0,-180.0
+15865,planta 1,exterior,3,65.0,True,False,San Cristóbal,villaverde,105000,108868.0,-3868.0
+2010,planta 2,exterior,4,230.0,True,False,Recoletos,barrio de salamanca,2640000,2359690.0,280310.0
+814,planta 2,interior,2,146.0,True,False,Recoletos,barrio de salamanca,1590000,1590600.0,-600.0
+1988,planta 3,exterior,4,190.0,True,False,Recoletos,barrio de salamanca,1430000,1878783.255,-448783.2549999999
+6219,planta 6,exterior,4,152.0,True,False,Almagro,chamberi,1400000,950777.0,449223.0
+5083,planta 1,exterior,5,160.0,True,True,Castilla,chamartin,638000,748080.0,-110080.0
+10366,planta 1,interior,1,200.0,True,False,Argüelles,moncloa,598000,1135720.0,-537720.0
+11778,bajo,exterior,3,64.0,False,False,Palomeras sureste,puente-de-vallecas,135000,142065.9,-7065.899999999994
+13217,planta 2,exterior,3,82.0,False,False,Canillejas,san-blas,185000,154044.99999999997,30955.00000000003
+10378,planta 1,exterior,3,68.0,False,False,Valdezarza,moncloa,179000,230450.16,-51450.16
+14902,planta 3,exterior,3,107.0,True,True,Valdebernardo - Valderrivas,vicalvaro,265000,338534.0,-73534.0
+6519,planta 1,exterior,2,80.0,False,False,Trafalgar,chamberi,470000,412733.5,57266.5
+3460,bajo,exterior,3,77.0,False,False,San Isidro,carabanchel,150000,191276.8276190476,-41276.8276190476
+749,planta 4,exterior,2,120.0,True,False,Alameda de Osuna,barajas,340000,469090.0,-129090.0
+15044,planta 1,exterior,3,147.0,True,True,El Cañaveral,vicalvaro,400000,404923.66666666674,-4923.666666666744
+2787,planta 1,exterior,2,54.0,False,False,Comillas,carabanchel,142000,152798.75,-10798.75
+1898,semi-sotano,interior,2,45.0,True,False,Lista,barrio de salamanca,255000,268485.97,-13485.969999999972
+8696,planta 10,exterior,3,110.0,True,True,Peñagrande,fuencarral,399000,524501.72,-125501.71999999997
+15239,bajo,exterior,2,79.0,True,True,Ensanche de Vallecas - La Gavia,villa-de-vallecas,223000,222308.41666666672,691.5833333332848
+3007,planta 1,exterior,2,88.0,True,True,Buena Vista,carabanchel,271900,265064.945,6835.054999999993
+14233,planta 6,exterior,4,131.0,True,False,Cuatro Caminos,tetuan,499000,551001.0,-52001.0
+13532,planta 7,exterior,3,64.0,True,True,Bellas Vistas,tetuan,315000,299893.06,15106.940000000002
+978,planta 1,exterior,3,88.0,True,False,Guindalera,barrio de salamanca,435000,433944.5,1055.5
+253,planta 1,exterior,3,115.0,True,True,Legazpi,Arganzuela,520000,539318.038,-19318.037999999942
+9700,planta 6,exterior,3,80.0,True,False,Aluche,latina,195000,224450.5,-29450.5
+4740,planta 1,exterior,5,179.0,False,False,Chueca-Justicia,centro,949000,947330.0,1670.0
+10331,planta 1,exterior,3,138.0,True,False,Argüelles,moncloa,840000,821435.0,18565.0
+11901,bajo,exterior,3,56.0,False,False,Palomeras Bajas,puente-de-vallecas,98700,119746.26666666668,-21046.266666666677
+15436,bajo,exterior,3,65.0,False,False,Casco Histórico de Vallecas,villa-de-vallecas,119000,121236.0,-2236.0
+15791,planta 3,exterior,3,61.0,False,False,Los Ángeles,villaverde,120000,125420.30952380951,-5420.309523809512
+15032,planta 7,exterior,3,95.0,True,True,El Cañaveral,vicalvaro,316000,319012.0,-3012.0
+8791,planta 2,exterior,3,125.0,True,True,Las Tablas,fuencarral,495000,509790.307936508,-14790.307936507976
+11382,planta 1,exterior,1,30.0,False,False,Numancia,puente-de-vallecas,79000,102465.0,-23465.0
+7848,planta 1,exterior,2,64.0,False,False,Dúplex en Quintana,ciudad lineal,158000,257522.64666666667,-99522.64666666667
+890,bajo,interior,2,166.0,True,False,Goya,barrio de salamanca,685000,1247603.5804761904,-562603.5804761904
+7401,planta 1,exterior,3,86.0,True,True,Pueblo Nuevo,ciudad lineal,315000,327174.86600000004,-12174.866000000038
+2419,planta 1,exterior,4,159.0,True,False,Goya,barrio de salamanca,820000,895568.7333333333,-75568.73333333328
+3357,planta 5,exterior,3,64.0,True,False,San Isidro,carabanchel,176000,246678.01,-70678.01000000001
+3396,bajo,exterior,3,97.0,False,False,Opañel,carabanchel,150000,210976.3,-60976.29999999999
+9361,planta 1,exterior,2,74.0,True,True,Pinar del Rey,hortaleza,375000,256936.585,118063.41500000001
+265,planta 1,exterior,2,65.0,False,False,Legazpi,Arganzuela,375000,246459.12666666668,128540.87333333332
+439,planta 2,exterior,1,66.0,True,True,Delicias,Arganzuela,368900,356750.0,12150.0
+10916,planta 5,exterior,2,100.0,True,False,Argüelles,moncloa,540000,584804.98,-44804.97999999998
+10927,planta 2,exterior,3,75.0,True,False,Ciudad Universitaria,moncloa,347000,351496.9,-4496.900000000023
+11551,bajo,exterior,2,60.0,False,False,Portazgo,puente-de-vallecas,119900,123868.33333333331,-3968.333333333314
+14196,planta 2,exterior,1,57.0,True,False,Valdeacederas,tetuan,210900,225001.57142857142,-14101.57142857142
+11249,planta 4,exterior,3,127.0,True,False,Palomeras sureste,puente-de-vallecas,369999,351505.98,18493.02000000002
+9760,planta 6,exterior,4,125.0,True,False,Puerta del Ángel,latina,605000,414725.5,190274.5
+13015,planta 1,interior,4,125.0,True,True,Canillejas,san-blas,295000,453483.3234101732,-158483.32341017318
+7456,planta 1,exterior,1,58.0,False,False,Pueblo Nuevo,ciudad lineal,132870,157254.9,-24384.899999999994
+8800,chalet,exterior,3,571.0,False,False,Tres Olivos - Valverde,fuencarral,1250000,1049372.4,200627.6000000001
+5316,planta 2,exterior,4,136.0,True,False,Prosperidad,chamartin,595000,478485.15,116514.84999999998
+2243,planta 1,exterior,4,311.0,True,False,Castellana,barrio de salamanca,2000000,2447550.0,-447550.0
+10088,planta 2,exterior,3,70.0,False,False,Lucero,latina,156000,161752.33333333334,-5752.333333333343
+5488,planta 4,interior,2,50.0,True,True,Ciudad Jardín,chamartin,300000,296228.95666666667,3771.043333333335
+14071,planta 3,exterior,4,102.0,True,False,Cuatro Caminos,tetuan,499000,488292.5,10707.5
+10720,chalet,exterior,5,374.0,False,True,Aravaca,moncloa,925000,1568287.353333333,-643287.353333333
+14291,planta 2,exterior,1,67.0,True,False,Dúplex en Berruguete,tetuan,214400,336400.19,-122000.19
+9963,planta 2,exterior,2,65.0,False,False,Lucero,latina,129500,156896.56,-27396.559999999998
+11899,planta 6,exterior,1,82.0,True,False,Palomeras sureste,puente-de-vallecas,173012,286288.78,-113276.78000000003
+1325,planta 6,interior,1,91.0,True,False,Recoletos,barrio de salamanca,690000,693051.0,-3051.0
+6269,bajo,exterior,1,46.0,False,False,Nuevos Ministerios-Ríos Rosas,chamberi,270400,259418.32333333336,10981.676666666637
+13447,planta 1,exterior,1,63.0,False,True,Berruguete,tetuan,187000,196293.48,-9293.48000000001
+1193,planta 2,interior,3,67.0,True,False,Guindalera,barrio de salamanca,299000,336878.2,-37878.20000000001
+3906,planta 1,exterior,1,38.0,False,False,Malasaña-Universidad,centro,160000,196673.33333333337,-36673.33333333337
+15164,planta 1,exterior,2,77.0,True,True,Ensanche de Vallecas - La Gavia,villa-de-vallecas,238000,208095.81666666668,29904.18333333332
+14577,planta 9,exterior,4,134.0,True,False,Moscardó,usera,470000,316810.5,153189.5
+8053,bajo,exterior,2,52.0,True,False,Quintana,ciudad lineal,179900,177981.46,1918.5400000000081
+8314,planta 1,exterior,3,120.0,True,True,Montecarmelo,fuencarral,530000,593829.99,-63829.98999999999
+1388,planta 2,interior,1,60.0,True,False,Castellana,barrio de salamanca,339000,398856.76428571425,-59856.76428571425
+3335,planta 4,exterior,1,53.0,True,True,Vista Alegre,carabanchel,187500,180284.11,7215.890000000014
+14603,bajo,exterior,3,69.0,False,False,Zofío,usera,121500,121935.0,-435.0
+2064,planta 1,exterior,3,95.0,True,False,Goya,barrio de salamanca,889000,889000.0,0.0
+9130,chalet,exterior,9,551.0,False,True,Chalet adosado en Conde Orgaz-Piovera,hortaleza,1450000,2988904.99,-1538904.9900000002
+4253,planta 5,interior,2,50.0,True,False,Huertas-Cortes,centro,229000,320763.99,-91763.98999999999
+10925,planta 3,exterior,3,147.0,True,True,Argüelles,moncloa,1093000,1127096.0,-34096.0
+6192,planta 2,exterior,3,100.0,True,False,Trafalgar,chamberi,750000,750000.0,0.0
+13989,planta 2,exterior,3,67.0,False,False,Bellas Vistas,tetuan,229000,237909.0,-8909.0
+7574,planta 1,exterior,3,97.0,True,False,Pueblo Nuevo,ciudad lineal,291700,283559.465,8140.534999999974
+12444,planta 3,exterior,5,160.0,True,False,Pacífico,retiro,565000,582111.6566666666,-17111.65666666662
+11705,planta 2,exterior,2,67.0,True,False,Numancia,puente-de-vallecas,219000,151325.8,67674.20000000001
+13444,planta 2,exterior,1,57.0,True,False,Valdeacederas,tetuan,232000,225001.57142857142,6998.42857142858
+5915,bajo,exterior,2,80.0,True,False,Almagro,chamberi,380000,541526.2833333333,-161526.28333333333
+13336,bajo,exterior,1,64.0,True,False,Valdeacederas,tetuan,230000,192226.76,37773.23999999999
+9151,planta 1,exterior,2,176.0,True,True,Valdebebas - Valdefuentes,hortaleza,615750,673787.0,-58037.0
+5925,planta 8,exterior,4,197.0,True,False,Vallehermoso,chamberi,1200000,1068675.0,131325.0
+6464,planta 4,exterior,3,92.0,True,False,Arapiles,chamberi,470000,582350.0,-112350.0
+5275,planta 2,interior,1,83.0,True,False,Bernabéu-Hispanoamérica,chamartin,600000,480001.78666666674,119998.21333333326
+13377,planta 9,exterior,3,140.0,True,False,Cuzco-Castillejos,tetuan,715000,715000.0,0.0
+10430,planta 1,exterior,4,221.0,True,False,Dúplex en Argüelles,moncloa,1250000,949980.0,300020.0
+13983,planta 3,exterior,2,71.0,True,False,Cuatro Caminos,tetuan,424000,371351.4,52648.59999999998
+14039,planta 1,exterior,5,142.0,False,False,Berruguete,tetuan,450000,423169.99,26830.01000000001
+5470,planta 4,exterior,2,75.0,True,True,Prosperidad,chamartin,466777,407844.12,58932.880000000005
+10477,planta 2,exterior,4,129.0,True,True,Casa de Campo,moncloa,760000,683040.5333333334,76959.46666666656
+11185,planta 6,exterior,3,108.0,True,True,Marroquina,moratalaz,429000,418673.0,10327.0
+5223,bajo,interior,2,40.0,True,False,Ciudad Jardín,chamartin,194000,188497.5,5502.5
+11108,planta 3,exterior,3,60.0,False,False,Fontarrón,moratalaz,155000,154738.05188422688,261.94811577312066
+5923,planta 7,exterior,4,218.0,True,True,Almagro,chamberi,1575000,1681275.0,-106275.0
+13582,planta 7,exterior,1,70.0,True,False,Cuatro Caminos,tetuan,480000,475838.99,4161.010000000009
+681,planta 6,exterior,2,82.0,True,True,Alameda de Osuna,barajas,410000,435248.68,-25248.679999999993
+5753,chalet,exterior,3,190.0,False,True,Chalet pareado en Ciudad Jardín,chamartin,940000,735603.29,204396.70999999996
+7804,bajo,exterior,3,104.0,True,False,San Juan Bautista,ciudad lineal,575000,366287.98,208712.02000000002
+11593,bajo,exterior,3,90.0,True,False,San Diego,puente-de-vallecas,210000,220356.0,-10356.0
+4653,planta 2,exterior,3,165.0,True,False,Malasaña-Universidad,centro,975000,891954.7272727272,83045.27272727282
+11707,planta 1,exterior,2,67.0,True,False,Numancia,puente-de-vallecas,215000,154773.79,60226.20999999999
+15083,planta 4,exterior,3,70.0,False,False,Casco Histórico de Vicálvaro,vicalvaro,153000,153368.42866125546,-368.428661255457
+4754,planta 1,exterior,5,166.0,True,False,Malasaña-Universidad,centro,859000,862782.1621319858,-3782.162131985766
+2867,planta 1,exterior,1,57.0,True,False,Vista Alegre,carabanchel,148730,150872.75,-2142.75
+5232,planta 7,exterior,4,245.0,True,False,Nueva España,chamartin,1350000,1359600.0,-9600.0
+14261,bajo,exterior,1,51.0,True,False,Valdeacederas,tetuan,198750,207824.0,-9074.0
+10085,planta 1,exterior,4,100.0,True,False,Lucero,latina,229000,197338.0,31662.0
+9090,planta 5,exterior,2,62.0,False,False,Pinar del Rey,hortaleza,165000,169376.3,-4376.299999999988
+326,planta 4,exterior,3,100.0,True,False,Chopera,Arganzuela,410000,403482.0,6518.0
+11661,planta 4,exterior,1,40.0,True,True,San Diego,puente-de-vallecas,319000,230236.13333333333,88763.86666666667
+5677,planta 1,exterior,3,132.0,True,False,Nueva España,chamartin,930700,763721.0,166979.0
+8961,planta 8,exterior,2,202.0,True,True,Valdebebas - Valdefuentes,hortaleza,860000,851849.94,8150.060000000056
+5794,planta 2,exterior,1,39.0,False,False,Prosperidad,chamartin,149000,164290.6,-15290.600000000006
+6585,planta 4,exterior,3,207.0,True,False,Trafalgar,chamberi,1550000,1540009.0,9991.0
+3390,bajo,exterior,3,67.0,False,False,Puerta Bonita,carabanchel,130000,141162.92166666666,-11162.921666666662
+7135,planta 2,interior,2,76.0,False,False,Pueblo Nuevo,ciudad lineal,214000,200559.33333333337,13440.666666666628
+4368,planta 1,exterior,5,154.0,True,False,Chueca-Justicia,centro,949000,826646.8333333335,122353.16666666651
+579,bajo,exterior,2,67.0,False,False,Chopera,Arganzuela,215000,213567.3,1432.7000000000116
+9924,planta 3,exterior,2,62.0,False,False,Los Cármenes,latina,154900,149604.96666666667,5295.033333333326
+7440,planta 1,exterior,3,101.0,False,False,Quintana,ciudad lineal,480000,308905.31,171094.69
+5187,planta 5,exterior,4,163.0,True,False,Bernabéu-Hispanoamérica,chamartin,739000,888030.0,-149030.0
+3029,planta 2,exterior,3,98.0,True,False,Abrantes,carabanchel,259900,196820.0,63080.0
+4695,planta 1,exterior,8,180.0,True,False,Chueca-Justicia,centro,1399000,954375.0,444625.0
+14941,planta 5,exterior,3,119.0,True,True,El Cañaveral,vicalvaro,359900,375561.99,-15661.98999999999
+6195,planta 1,exterior,6,176.0,True,False,Nuevos Ministerios-Ríos Rosas,chamberi,950000,945540.0,4460.0
+3428,bajo,exterior,3,51.0,False,False,Puerta Bonita,carabanchel,113500,123870.4,-10370.399999999994
+3607,planta 1,exterior,1,41.0,True,False,Puerta Bonita,carabanchel,113000,144339.9,-31339.899999999994
+8585,casa,exterior,4,400.0,False,True,Casa o chalet independiente en Tres Olivos - Valverde,fuencarral,1200000,1495230.7,-295230.69999999995
+5565,planta 5,exterior,2,100.0,True,True,Ciudad Jardín,chamartin,595000,570063.25,24936.75
+483,planta 3,exterior,4,97.0,True,False,Acacias,Arganzuela,450000,415380.0,34620.0
+15632,planta 5,exterior,3,63.0,False,False,San Cristóbal,villaverde,147500,84834.71666666666,62665.28333333334
+13742,planta 1,interior,4,115.0,True,True,Cuatro Caminos,tetuan,475000,580122.32,-105122.31999999995
+2614,planta 2,exterior,5,140.0,True,False,Goya,barrio de salamanca,990000,841420.0,148580.0
+10319,planta 1,exterior,3,100.0,True,True,Ciudad Universitaria,moncloa,460000,489846.45,-29846.45000000001
+9012,planta 19,exterior,3,182.0,True,True,Virgen del Cortijo - Manoteras,hortaleza,792000,810316.9633333334,-18316.963333333377
+3903,planta 1,interior,1,30.0,True,False,Huertas-Cortes,centro,225000,215466.0,9534.0
+15125,planta 1,exterior,3,114.0,True,True,Valdebernardo - Valderrivas,vicalvaro,595000,377732.86466666666,217267.13533333334
+9241,chalet,exterior,4,419.0,False,True,Valdebebas - Valdefuentes,hortaleza,999000,1090266.6666666667,-91266.66666666674
+3172,bajo,interior,2,36.0,True,False,Vista Alegre,carabanchel,110000,129666.92,-19666.92
+2503,planta 6,exterior,5,310.0,True,True,Castellana,barrio de salamanca,2650000,2541160.0,108840.0
+9990,planta 5,exterior,3,81.0,True,False,Águilas,latina,249000,256277.0,-7277.0
+5989,planta 5,exterior,4,335.0,True,True,Almagro,chamberi,2300000,2434500.0,-134500.0
+1161,planta 2,exterior,4,115.0,True,False,Guindalera,barrio de salamanca,595000,531495.0,63505.0
+10907,planta 5,exterior,5,453.0,True,True,Argüelles,moncloa,3200000,3056880.0,143120.0
+7973,planta 1,exterior,3,115.0,True,True,Pueblo Nuevo,ciudad lineal,381200,341774.6,39425.40000000002
+6558,planta 5,exterior,4,134.0,True,False,Trafalgar,chamberi,750000,805375.0,-55375.0
+6812,planta 6,exterior,4,257.0,True,False,Vallehermoso,chamberi,1100000,1097599.96,2400.0400000000373
+15129,planta 4,exterior,3,90.0,True,False,Casco Histórico de Vicálvaro,vicalvaro,240000,278287.25666666665,-38287.25666666665
+919,planta 1,exterior,3,230.0,True,False,Recoletos,barrio de salamanca,1495000,2232530.0,-737530.0
+8732,chalet,exterior,11,579.0,False,True,Chalet en Mirasierra,fuencarral,1600000,1161645.1466666667,438354.8533333333
+7764,planta 1,exterior,1,53.0,False,False,Quintana,ciudad lineal,224000,193667.98,30332.01999999999
+3777,planta 2,exterior,3,83.0,False,False,Lavapiés-Embajadores,centro,426600,371201.66666666674,55398.333333333256
+14452,planta 2,exterior,3,120.0,True,True,Orcasitas,usera,245000,299986.73,-54986.72999999998
+12876,planta 3,exterior,1,72.0,True,False,Simancas,san-blas,230000,243576.98,-13576.98000000001
+12117,planta 8,exterior,3,116.0,True,False,Estrella,retiro,499000,593406.0,-94406.0
+8993,planta 2,exterior,3,127.0,False,False,Virgen del Cortijo - Manoteras,hortaleza,419500,418155.0,1345.0
+11839,casa,exterior,4,68.0,False,False,Chalet en Entrevías,puente-de-vallecas,129500,302457.5,-172957.5
+11201,bajo,exterior,3,150.0,False,False,Fontarrón,moratalaz,245000,262947.57,-17947.570000000007
+162,bajo,interior,1,50.0,True,False,Palos de Moguer,Arganzuela,210000,206339.77,3660.2300000000105
+8718,planta 7,exterior,2,95.0,True,True,Ático en Las Tablas,fuencarral,460000,467517.0,-7517.0
+9286,chalet,exterior,5,431.0,False,True,Conde Orgaz-Piovera,hortaleza,2150000,1935816.646666667,214183.35333333304
+8094,planta 3,exterior,3,219.0,True,True,Dúplex en Concepción,ciudad lineal,760000,928798.6,-168798.59999999998
+14995,planta 4,exterior,3,120.0,True,True,El Cañaveral,vicalvaro,385900,373712.0,12188.0
+15778,bajo,exterior,1,45.0,False,False,Villaverde Alto,villaverde,123500,109575.0,13925.0
+8786,planta 6,exterior,4,260.0,True,True,La Paz,fuencarral,890000,899577.2,-9577.199999999953
+12732,chalet,exterior,4,206.0,False,True,Chalet adosado en Rejas,san-blas,489000,735486.48,-246486.47999999998
+11067,planta 4,exterior,2,65.0,False,False,Vinateros,moratalaz,197000,194599.95,2400.0499999999884
+15380,bajo,exterior,1,49.0,True,False,Ensanche de Vallecas - La Gavia,villa-de-vallecas,70000,119864.0,-49864.0
+1959,planta 1,exterior,1,80.0,True,False,Guindalera,barrio de salamanca,293000,379547.0,-86547.0
+14474,planta 1,exterior,3,135.0,True,True,Almendrales,usera,429000,297628.6,131371.40000000002
+13486,planta 1,exterior,3,127.0,True,False,Cuzco-Castillejos,tetuan,950000,950000.0,0.0
+3702,planta 3,exterior,2,67.0,True,False,Vista Alegre,carabanchel,155000,162668.24,-7668.239999999991
+2295,bajo,exterior,2,35.0,True,False,Goya,barrio de salamanca,180000,229310.0,-49310.0
+5349,planta 3,exterior,4,184.0,True,True,Nueva España,chamartin,1470000,1331559.0,138441.0
+4350,planta 4,exterior,1,33.0,False,False,Malasaña-Universidad,centro,220000,193613.96666666667,26386.033333333326
+15429,planta 3,exterior,4,110.0,True,True,Santa Eugenia,villa-de-vallecas,419000,300309.73,118690.27000000002
+9881,planta 3,exterior,3,77.0,True,False,Puerta del Ángel,latina,225000,230668.8333333333,-5668.833333333314
+11017,bajo,exterior,3,74.0,False,False,Media Legua,moratalaz,185000,193115.0,-8115.0
+4679,planta 1,exterior,4,383.0,True,True,Huertas-Cortes,centro,1800000,2008490.0,-208490.0
+12986,planta 2,exterior,1,67.0,True,True,Rejas,san-blas,220000,262629.0,-42629.0
+13901,planta 4,exterior,2,140.0,True,False,Valdeacederas,tetuan,421000,553707.6,-132707.59999999998
+4643,planta 1,exterior,2,146.0,False,False,Chueca-Justicia,centro,800000,1053637.0,-253637.0
+12564,planta 4,exterior,4,410.0,True,True,Jerónimos,retiro,5550000,4884820.0,665180.0
+1957,planta 4,exterior,4,141.0,True,False,Castellana,barrio de salamanca,950000,1146395.0000000002,-196395.00000000023
+13587,planta 2,interior,3,62.0,True,False,Cuatro Caminos,tetuan,320000,328294.95,-8294.950000000012
+6777,planta 6,interior,3,136.0,True,False,Arapiles,chamberi,690000,898533.15,-208533.15000000002
+5413,planta 1,exterior,5,101.0,True,False,Prosperidad,chamartin,454200,465366.8,-11166.799999999988
+7510,planta 2,exterior,1,53.0,True,False,Ventas,ciudad lineal,171937,177959.39,-6022.390000000014
+7211,planta 1,exterior,3,94.0,True,False,Ventas,ciudad lineal,229500,268580.0,-39080.0
+1179,planta 1,interior,4,93.0,True,False,Goya,barrio de salamanca,448700,465971.0,-17271.0
+15597,planta 9,exterior,3,104.0,True,True,Los Ángeles,villaverde,229500,228222.48,1277.5199999999895
+12920,planta 3,exterior,2,81.0,True,True,Rejas,san-blas,225750,283884.4,-58134.40000000002
+8076,planta 1,exterior,3,69.0,False,False,Pueblo Nuevo,ciudad lineal,165000,131985.68,33014.32000000001
+10235,planta 1,exterior,3,66.0,False,False,Águilas,latina,170000,169949.56233333334,50.43766666666488
+171,planta 3,interior,2,54.0,True,False,Palos de Moguer,Arganzuela,249000,246215.0,2785.0
+9604,planta 1,exterior,2,60.0,True,False,Puerta del Ángel,latina,180000,180145.25138095237,-145.25138095236616
+4215,planta 4,interior,2,65.0,True,False,Malasaña-Universidad,centro,390000,436867.71,-46867.71000000002
+3762,planta 3,exterior,1,121.0,True,False,Malasaña-Universidad,centro,675000,711590.0,-36590.0
+159,planta 1,exterior,1,49.0,True,False,Delicias,Arganzuela,229100,224457.91,4642.0899999999965
+14853,planta 2,exterior,3,133.0,True,True,Valdebernardo - Valderrivas,vicalvaro,339000,351704.78571428574,-12704.78571428574
+15394,planta 1,exterior,3,69.0,False,False,Casco Histórico de Vallecas,villa-de-vallecas,153800,153456.0,344.0
+5838,planta 2,exterior,2,260.0,True,True,El Viso,chamartin,2700000,1508313.846153846,1191686.153846154
+15595,planta 1,exterior,2,65.0,False,False,Villaverde Alto,villaverde,114999,124290.27999999998,-9291.279999999984
+1597,semi-sotano,exterior,4,146.0,True,False,Recoletos,barrio de salamanca,795000,1324000.0,-529000.0
+10769,planta 5,exterior,3,80.0,True,False,Argüelles,moncloa,590000,492175.99,97824.01000000001
+7098,planta 4,exterior,3,87.0,True,True,San Pascual,ciudad lineal,440000,389235.0,50765.0
+10387,planta 4,exterior,2,130.0,True,True,Ciudad Universitaria,moncloa,630000,646596.8999999999,-16596.899999999907
+1125,planta 1,interior,1,53.0,True,False,Guindalera,barrio de salamanca,260000,268048.0,-8048.0
+4854,planta 5,exterior,3,210.0,True,False,Bernabéu-Hispanoamérica,chamartin,995000,1322206.6666666667,-327206.66666666674
+7209,planta 4,exterior,3,79.0,False,False,Pueblo Nuevo,ciudad lineal,160000,220940.99,-60940.98999999999
+13291,planta 2,exterior,3,101.0,True,False,Berruguete,tetuan,245000,353227.6,-108227.59999999998
+598,planta 1,exterior,1,77.0,True,False,Legazpi,Arganzuela,314900,340279.8,-25379.79999999999
+949,semi-sotano,exterior,2,77.0,True,False,Castellana,barrio de salamanca,525000,490206.5666666667,34793.43333333329
+6509,planta 1,exterior,3,140.0,True,False,Gaztambide,chamberi,695000,763510.0,-68510.0
+7784,planta 2,exterior,1,75.0,True,True,Concepción,ciudad lineal,349000,337888.54,11111.460000000021
+4996,planta 1,exterior,4,358.0,True,True,Dúplex en Nueva España,chamartin,2490000,2342583.3333333335,147416.6666666665
+12068,planta 1,exterior,1,81.0,True,True,Dúplex en Pacífico,retiro,390000,433716.375,-43716.375
+8154,planta 1,exterior,3,97.0,True,False,Mirasierra,fuencarral,499000,515613.5,-16613.5
+5542,planta 2,exterior,3,150.0,True,True,Castilla,chamartin,760000,745020.0,14980.0
+4237,planta 4,exterior,1,49.0,False,False,Malasaña-Universidad,centro,296000,254835.16666666663,41164.83333333337
+4374,planta 3,exterior,2,82.0,False,False,Huertas-Cortes,centro,399000,399000.0,0.0
+10197,planta 4,exterior,3,63.0,False,False,Campamento,latina,130000,144739.928,-14739.928000000014
+10178,planta 5,exterior,3,69.0,False,False,Águilas,latina,139000,158715.0,-19715.0
+3057,planta 3,exterior,2,56.0,False,False,Buena Vista,carabanchel,123000,121095.63333333332,1904.3666666666832
+15867,planta 4,exterior,3,65.0,False,False,Butarque,villaverde,129000,137231.55666666667,-8231.556666666671
+5931,planta 2,exterior,2,209.0,True,False,Almagro,chamberi,1595000,1596043.9165001663,-1043.9165001662914
+8132,planta 5,exterior,3,158.0,True,True,Dúplex en Las Tablas,fuencarral,649000,693951.0,-44951.0
+10761,planta 7,exterior,2,100.0,True,True,Valdezarza,moncloa,495000,400107.9966666667,94892.0033333333
+1773,planta 6,exterior,3,220.0,True,True,Goya,barrio de salamanca,1850000,1578630.0,271370.0
+15316,planta 7,exterior,2,90.0,True,True,Ensanche de Vallecas - La Gavia,villa-de-vallecas,278000,309791.9051666667,-31791.905166666722
+6281,planta 1,exterior,5,450.0,True,False,Almagro,chamberi,3200000,2688300.0,511700.0
+8475,planta 6,exterior,3,106.0,True,True,La Paz,fuencarral,525000,489285.0,35715.0
+10484,planta 5,exterior,4,146.0,True,False,Argüelles,moncloa,650000,802538.0,-152538.0
+10781,planta 2,exterior,4,229.0,True,False,Argüelles,moncloa,1100000,959802.0,140198.0
+13797,planta 1,exterior,2,59.0,False,False,Berruguete,tetuan,156650,215472.29333333333,-58822.293333333335
+8589,planta 8,exterior,6,437.0,True,True,Mirasierra,fuencarral,1995000,2453422.0,-458422.0
+5778,bajo,exterior,1,165.0,True,False,El Viso,chamartin,791000,791000.0,0.0
+7168,planta 4,exterior,3,111.0,False,False,Ventas,ciudad lineal,254000,246036.0,7964.0
+11794,bajo,exterior,2,103.0,True,True,Palomeras Bajas,puente-de-vallecas,281300,248873.0,32427.0
+4856,planta 3,exterior,4,215.0,True,True,Bernabéu-Hispanoamérica,chamartin,1150000,1117391.6666666667,32608.333333333256
+3928,planta 4,interior,1,42.0,False,False,Lavapiés-Embajadores,centro,170000,176089.0,-6089.0
+13348,planta 1,exterior,2,93.0,True,False,Ventilla-Almenara,tetuan,300000,320664.99,-20664.98999999999
+4555,planta 4,exterior,2,105.0,True,True,Palacio,centro,805000,566437.38,238562.62
+6524,planta 4,exterior,3,214.0,True,False,Trafalgar,chamberi,1290000,1583223.0,-293223.0
+4024,planta 1,exterior,5,239.0,True,False,Palacio,centro,1020000,1172660.0,-152660.0
+12396,planta 3,interior,2,47.0,True,False,Ibiza,retiro,360000,372304.83333333326,-12304.833333333256
+6990,planta 2,exterior,5,397.0,True,True,Vallehermoso,chamberi,1690000,2808041.99,-1118041.9900000002
+4027,planta 3,exterior,2,135.0,True,False,Lavapiés-Embajadores,centro,769000,748190.0,20810.0
+10553,chalet,exterior,6,400.0,False,True,Aravaca,moncloa,1300000,1891235.05,-591235.05
+15385,planta 2,exterior,1,49.0,True,False,Casco Histórico de Vallecas,villa-de-vallecas,132000,134279.5,-2279.5
+2376,planta 2,exterior,4,195.0,True,False,Castellana,barrio de salamanca,1700000,1444688.0,255312.0
+13327,planta 1,exterior,2,115.0,True,False,Cuzco-Castillejos,tetuan,450000,594108.99,-144108.99
+2368,planta 4,interior,4,94.0,True,False,Goya,barrio de salamanca,557500,586426.0,-28926.0
+10915,bajo,exterior,1,50.0,True,False,Aravaca,moncloa,230000,256901.0,-26901.0
+576,planta 1,exterior,1,49.0,True,False,Delicias,Arganzuela,229100,224457.91,4642.0899999999965
+6411,planta 5,exterior,3,148.0,True,False,Almagro,chamberi,1390000,1107425.0,282575.0
+9906,planta 1,exterior,1,63.0,True,False,Lucero,latina,170900,153969.6025,16930.397499999992
+6506,bajo,interior,2,65.0,True,False,Trafalgar,chamberi,420000,394290.0,25710.0
+9508,bajo,exterior,2,85.0,True,True,Canillas,hortaleza,378000,358450.0,19550.0
+2032,planta 5,exterior,5,265.0,True,True,Castellana,barrio de salamanca,2200000,2144088.111111111,55911.88888888899
+14266,planta 2,exterior,1,52.0,True,True,Valdeacederas,tetuan,270000,227786.0,42214.0
+7538,planta 3,exterior,3,58.0,False,False,Pueblo Nuevo,ciudad lineal,150000,150215.0,-215.0
+6619,planta 7,exterior,5,412.0,True,False,Almagro,chamberi,4100000,3704500.0,395500.0
+12840,planta 1,exterior,3,82.0,False,False,Canillejas,san-blas,185000,141784.0,43216.0
+8351,planta 5,exterior,3,130.0,True,True,Las Tablas,fuencarral,680000,681780.0,-1780.0
+4376,planta 3,interior,1,27.0,False,False,Lavapiés-Embajadores,centro,131000,131656.49025974027,-656.4902597402688
+139,planta 3,interior,2,84.0,True,True,Palos de Moguer,Arganzuela,410000,418770.0,-8770.0
+7481,planta 3,exterior,3,82.0,True,False,San Pascual,ciudad lineal,250000,277012.46,-27012.46000000002
+4853,planta 2,exterior,2,95.0,True,False,El Viso,chamartin,750000,725210.0,24790.0
+913,planta 7,exterior,5,172.0,True,False,Castellana,barrio de salamanca,1100000,1245750.0,-145750.0
+4990,planta 12,exterior,3,266.0,True,True,Prosperidad,chamartin,1375000,1365642.6,9357.399999999907
+5832,planta 10,exterior,2,290.0,True,False,El Viso,chamartin,2300000,1429680.0,870320.0
+6208,planta 2,interior,1,61.0,True,False,Trafalgar,chamberi,470000,339464.29,130535.71000000002
+14267,planta 6,exterior,4,80.0,True,False,Berruguete,tetuan,278500,297393.1666666667,-18893.166666666686
+15754,planta 2,exterior,3,75.0,True,False,San Cristóbal,villaverde,85300,134912.6,-49612.600000000006
+8729,planta 10,exterior,4,125.0,True,False,Peñagrande,fuencarral,479000,511106.5,-32106.5
+11316,planta 5,exterior,2,87.0,True,False,Palomeras Bajas,puente-de-vallecas,145000,215031.94,-70031.94
+11525,planta 3,exterior,3,61.0,False,False,Numancia,puente-de-vallecas,144900,138619.0,6281.0
+10199,bajo,exterior,3,65.0,False,False,Los Cármenes,latina,119000,152336.8,-33336.79999999999
+5613,bajo,interior,2,39.0,True,False,Bernabéu-Hispanoamérica,chamartin,215000,257195.91,-42195.91
+8323,planta 1,exterior,3,100.0,True,True,Montecarmelo,fuencarral,495000,509677.0,-14677.0
+2931,planta 5,exterior,4,135.0,True,True,Abrantes,carabanchel,435000,435290.0,-290.0
+12960,planta 2,exterior,1,80.0,True,True,Rejas,san-blas,239000,275879.0,-36879.0
+715,bajo,exterior,3,190.0,True,True,Alameda de Osuna,barajas,749000,729467.5616666668,19532.438333333237
+6564,planta 1,interior,3,135.0,True,False,Gaztambide,chamberi,520000,792439.6666666667,-272439.66666666674
+9628,planta 10,exterior,2,67.0,True,False,Aluche,latina,145500,150405.0,-4905.0
+2986,planta 1,exterior,2,100.0,True,True,Puerta Bonita,carabanchel,250000,250000.0,0.0
+8730,bajo,exterior,2,48.0,False,False,Tres Olivos - Valverde,fuencarral,126000,125160.0,840.0
+905,planta 3,exterior,4,280.0,True,False,Recoletos,barrio de salamanca,3400000,2763720.0,636280.0
+14083,bajo,exterior,2,33.0,False,False,Berruguete,tetuan,75000,119422.0,-44422.0
+8176,planta 5,exterior,3,158.0,True,True,Dúplex en Las Tablas,fuencarral,649000,693951.0,-44951.0
+537,planta 1,exterior,1,70.0,True,False,Acacias,Arganzuela,285000,319011.45,-34011.45000000001
+411,planta 2,exterior,3,126.0,True,True,Imperial,Arganzuela,620000,648405.0,-28405.0
+10975,bajo,exterior,1,35.0,False,False,Casa de Campo,moncloa,141750,148483.4,-6733.399999999994
+7426,planta 1,exterior,4,162.0,True,True,San Juan Bautista,ciudad lineal,858000,853050.0,4950.0
+1061,entreplanta,exterior,7,460.0,True,True,Goya,barrio de salamanca,1699000,1804040.0,-105040.0
+5752,chalet,exterior,9,500.0,False,True,Casa o chalet independiente en Nueva España,chamartin,2500000,3774650.0,-1274650.0
+3175,planta 2,exterior,2,60.0,False,False,San Isidro,carabanchel,129000,122304.99,6695.009999999995
+9459,planta 2,exterior,5,147.0,True,False,Apóstol Santiago,hortaleza,370000,622585.0,-252585.0
+9160,planta 5,exterior,3,113.0,True,True,Sanchinarro,hortaleza,556000,550895.0,5105.0
+7240,planta 1,exterior,4,186.0,False,True,San Juan Bautista,ciudad lineal,858000,858515.9333333335,-515.9333333334653
+13709,planta 3,exterior,1,76.0,True,False,Ventilla-Almenara,tetuan,390000,398233.0,-8233.0
+9680,casa,exterior,4,116.0,False,False,Los Cármenes,latina,282000,246765.98,35234.01999999999
+14218,planta 2,interior,3,63.0,False,False,Cuzco-Castillejos,tetuan,320000,233744.0,86256.0
+12521,planta 3,interior,4,125.0,True,False,Pacífico,retiro,440000,488668.3,-48668.29999999999
+888,planta 1,exterior,4,440.0,True,False,Castellana,barrio de salamanca,3960000,3810700.0,149300.0
+12961,bajo,interior,2,58.0,False,False,Canillejas,san-blas,169000,163766.7,5233.299999999988
+1301,planta 5,exterior,1,32.0,True,False,Lista,barrio de salamanca,290000,233038.0,56962.0
+3793,planta 2,exterior,1,95.0,False,False,Palacio,centro,445000,503530.92,-58530.919999999984
+11827,planta 1,exterior,2,55.0,False,False,Palomeras Bajas,puente-de-vallecas,125000,114736.39,10263.61
+6525,planta 12,exterior,3,175.0,True,False,Gaztambide,chamberi,950000,854236.0,95764.0
+1992,planta 3,interior,1,45.0,True,False,Lista,barrio de salamanca,294900,305815.0,-10915.0
+12481,planta 2,exterior,6,401.0,True,False,Jerónimos,retiro,4250000,4761525.0,-511525.0
+8500,planta 1,exterior,4,151.0,True,False,La Paz,fuencarral,564000,570824.0000000001,-6824.000000000116
+11107,planta 3,exterior,3,60.0,False,False,Fontarrón,moratalaz,155000,154738.05188422688,261.94811577312066
+748,bajo,exterior,4,145.0,True,False,Alameda de Osuna,barajas,425000,537205.83,-112205.82999999996
+8686,planta 1,exterior,1,62.0,True,False,Pilar,fuencarral,275000,203840.09523809524,71159.90476190476
+8995,planta 3,exterior,2,122.0,True,True,Valdebebas - Valdefuentes,hortaleza,480000,535033.5,-55033.5
+6533,planta 1,exterior,2,90.0,True,True,Trafalgar,chamberi,850000,581956.99,268043.01
+9105,planta 3,exterior,2,53.0,False,False,Pinar del Rey,hortaleza,160000,156680.0,3320.0
+222,bajo,interior,2,52.0,True,False,Delicias,Arganzuela,203000,210069.0,-7069.0
+11447,planta 5,exterior,3,59.0,True,False,Numancia,puente-de-vallecas,153000,144981.34,8018.6600000000035
+13706,planta 14,exterior,3,146.0,True,True,Valdeacederas,tetuan,798000,680926.6,117073.40000000002
+14983,planta 1,exterior,2,84.0,True,True,Casco Histórico de Vicálvaro,vicalvaro,295000,287194.7,7805.299999999988
+15049,planta 5,exterior,2,93.0,True,True,El Cañaveral,vicalvaro,353000,328422.3333333333,24577.666666666686
+1397,planta 2,exterior,1,65.0,True,True,Recoletos,barrio de salamanca,735000,803800.0,-68800.0
+10500,planta 2,exterior,3,208.0,True,False,Argüelles,moncloa,760000,1168056.1666666665,-408056.1666666665
+1007,planta 6,exterior,5,230.0,True,False,Castellana,barrio de salamanca,1245000,2091720.0,-846720.0
+4487,planta 2,interior,2,54.0,False,False,Lavapiés-Embajadores,centro,195000,268773.0,-73773.0
+306,planta 2,exterior,2,97.0,True,False,Acacias,Arganzuela,349000,383920.0,-34920.0
+10731,chalet,exterior,5,449.0,False,True,Valdemarín,moncloa,1470000,1743990.0,-273990.0
+136,planta 3,exterior,1,48.0,False,False,Imperial,Arganzuela,190000,206600.6,-16600.600000000006
+13333,planta 5,exterior,4,208.0,True,False,Cuatro Caminos,tetuan,995000,1188800.0,-193800.0
+4825,planta 8,exterior,4,367.0,True,True,Nueva España,chamartin,2450000,3423400.0,-973400.0
+13422,planta 4,exterior,2,80.0,True,False,Bellas Vistas,tetuan,339900,351102.0,-11202.0
+8620,planta 2,exterior,4,91.0,False,False,Tres Olivos - Valverde,fuencarral,240000,205573.4,34426.600000000006
+15902,planta 2,exterior,3,71.0,False,False,Los Rosales,villaverde,130000,107349.95833333334,22650.041666666657
+2122,planta 6,exterior,3,120.0,True,True,Goya,barrio de salamanca,778000,964160.0,-186160.0
+3639,planta 1,exterior,1,45.0,True,False,San Isidro,carabanchel,116900,204982.83,-88082.82999999999
+12792,planta 1,exterior,2,92.0,True,True,Rejas,san-blas,305000,308643.6666666667,-3643.666666666686
+7682,planta 4,exterior,3,111.0,False,False,Ventas,ciudad lineal,246400,246036.0,364.0
+6705,planta 2,exterior,3,92.0,True,False,Trafalgar,chamberi,750000,742420.0,7580.0
+10271,planta 7,exterior,3,100.0,True,True,Águilas,latina,294000,304919.945,-10919.945000000007
+5659,planta 4,exterior,3,89.0,True,False,Prosperidad,chamartin,395000,436825.0,-41825.0
+11376,planta 1,exterior,2,85.0,False,False,Numancia,puente-de-vallecas,199500,176289.0,23211.0
+6941,planta 5,exterior,5,232.0,True,False,Vallehermoso,chamberi,1150000,1210494.97,-60494.96999999997
+10309,chalet,exterior,6,400.0,False,True,Chalet pareado en El Plantío,moncloa,850000,1291880.0,-441880.0
+1509,planta 2,exterior,3,175.0,True,True,Recoletos,barrio de salamanca,2000000,1487090.0,512910.0
+5955,planta 3,interior,4,205.0,True,False,Almagro,chamberi,1250000,1372500.0,-122500.0
+14377,planta 2,exterior,3,100.0,True,True,Orcasitas,usera,289000,269269.17,19730.830000000016
+6185,planta 6,interior,2,160.0,True,True,Almagro,chamberi,1475000,1261866.0,213134.0
+13246,planta 2,exterior,3,61.0,False,False,Hellín,san-blas,155000,138594.49809523812,16405.501904761884
+15805,planta 1,exterior,2,43.0,False,False,Villaverde Alto,villaverde,115000,100059.99333333335,14940.006666666653
+12292,planta 1,interior,2,54.0,False,False,Pacífico,retiro,210000,217773.5,-7773.5
+12551,planta 1,exterior,3,150.0,True,False,Niño Jesús,retiro,795000,844366.6666666665,-49366.66666666651
+7255,planta 4,exterior,2,52.0,True,False,Quintana,ciudad lineal,115200,201289.7333333333,-86089.73333333331
+221,planta 2,exterior,4,160.0,True,True,Legazpi,Arganzuela,749000,752917.9366666668,-3917.936666666763
+13854,bajo,exterior,4,120.0,True,False,Cuzco-Castillejos,tetuan,379900,610038.48,-230138.47999999998
+3485,planta 4,interior,3,60.0,False,False,Opañel,carabanchel,135000,142686.0,-7686.0
+13514,planta 2,exterior,2,99.0,True,False,Valdeacederas,tetuan,298000,316320.0,-18320.0
+10030,planta 3,exterior,2,62.0,False,False,Puerta del Ángel,latina,149000,169984.66666666663,-20984.666666666628
+15640,planta 3,exterior,2,54.0,False,False,Los Ángeles,villaverde,148000,117204.62666666665,30795.37333333335
+5792,planta 2,exterior,2,71.0,False,False,Ciudad Jardín,chamartin,248999,250170.0,-1171.0
+12408,planta 7,exterior,3,88.0,True,False,Estrella,retiro,360000,443625.0,-83625.0
+10740,planta 1,exterior,6,364.0,True,True,Argüelles,moncloa,2300000,1581332.0,718668.0
+15118,bajo,exterior,1,45.0,True,False,Casco Histórico de Vicálvaro,vicalvaro,129000,165482.86,-36482.859999999986
+4087,planta 2,exterior,3,77.0,True,False,Palacio,centro,345000,345000.0,0.0
+5070,planta 2,exterior,1,77.0,False,False,Ciudad Jardín,chamartin,350000,329904.0,20096.0
+8401,planta 1,exterior,6,214.0,True,False,Pilar,fuencarral,697000,614940.0,82060.0
+2930,planta 2,exterior,4,127.0,True,False,Vista Alegre,carabanchel,264000,332934.13666666666,-68934.13666666666
+3739,planta 2,exterior,3,104.0,True,False,Malasaña-Universidad,centro,550000,581750.0,-31750.0
+12417,planta 4,interior,4,120.0,True,False,Ibiza,retiro,576000,603275.0,-27275.0
+6042,planta 4,exterior,4,361.0,True,True,Almagro,chamberi,2495000,2469005.0,25995.0
+1555,planta 2,interior,4,239.0,True,False,Fuente del Berro,barrio de salamanca,890000,1142455.0,-252455.0
+2269,planta 1,exterior,5,303.0,True,False,Goya,barrio de salamanca,1495000,1773890.0,-278890.0
+6394,planta 1,exterior,4,178.0,True,False,Nuevos Ministerios-Ríos Rosas,chamberi,1295000,897520.0,397480.0
+4660,planta 3,exterior,3,185.0,True,False,Malasaña-Universidad,centro,835000,855573.3333333335,-20573.33333333349
+5909,sotano,interior,1,65.0,True,False,Almagro,chamberi,397000,452373.0,-55373.0
+11429,planta 1,exterior,3,70.0,False,False,Entrevías,puente-de-vallecas,139000,134300.6666666667,4699.333333333314
+8751,planta 1,exterior,3,125.0,True,True,Las Tablas,fuencarral,500000,497300.4603174603,2699.539682539704
+831,planta 7,exterior,5,688.0,True,True,Ático en Castellana,barrio de salamanca,7500000,7455500.0,44500.0
+3099,planta 2,exterior,3,69.0,False,False,Puerta Bonita,carabanchel,165000,151233.0,13767.0
+3660,casa,exterior,5,222.0,False,False,Opañel,carabanchel,450000,513298.87,-63298.869999999995
+9207,planta 7,exterior,4,182.0,True,True,Valdebebas - Valdefuentes,hortaleza,800000,835110.0,-35110.0
+10591,planta 2,exterior,4,131.0,True,True,Aravaca,moncloa,590000,618929.0,-28929.0
+11635,bajo,interior,1,60.0,True,False,Entrevías,puente-de-vallecas,128500,104871.0,23629.0
+12581,planta 5,exterior,5,130.0,True,False,Pacífico,retiro,495000,500678.3333333334,-5678.333333333372
+2865,planta 5,exterior,2,57.0,False,False,Comillas,carabanchel,139000,130235.88666666666,8764.113333333342
+1893,planta 9,interior,1,59.0,True,False,Lista,barrio de salamanca,450000,419155.0,30845.0
+10799,planta 1,exterior,5,300.0,True,True,Dúplex en Aravaca,moncloa,1240000,1173020.0,66980.0
+7874,planta 2,exterior,3,75.0,True,False,San Pascual,ciudad lineal,240000,278328.78,-38328.78000000003
+6712,planta 5,exterior,2,75.0,False,False,Almagro,chamberi,338000,509421.0,-171421.0
+1494,planta 1,interior,1,75.0,True,False,Castellana,barrio de salamanca,435000,583944.2133333334,-148944.21333333338
+5299,planta 3,exterior,2,182.0,True,True,Nueva España,chamartin,1240000,1166219.0,73781.0
+12883,planta 7,exterior,3,107.0,True,True,Ático en Simancas,san-blas,545000,602560.0,-57560.0
+6953,planta 1,exterior,5,539.0,True,False,Almagro,chamberi,2700000,2789650.0,-89650.0
+12442,planta 8,exterior,2,88.0,True,False,Estrella,retiro,765000,606880.0,158120.0
+10323,planta 11,exterior,4,137.0,True,False,Ciudad Universitaria,moncloa,655000,658513.0,-3513.0
+13254,planta 4,exterior,3,184.0,True,False,Simancas,san-blas,499000,636305.95,-137305.94999999995
+6834,planta 8,exterior,5,280.0,True,True,Vallehermoso,chamberi,1559000,1695596.0,-136596.0
+5918,planta 2,exterior,3,79.0,False,False,Almagro,chamberi,449000,470233.3233333333,-21233.323333333305
+7728,planta 1,exterior,2,82.0,True,True,Quintana,ciudad lineal,380500,381991.0,-1491.0
+12525,planta 1,interior,4,123.0,True,False,Ibiza,retiro,580000,618229.64,-38229.640000000014
+14431,planta 3,interior,2,83.0,True,False,Moscardó,usera,236000,227169.29,8830.709999999992
+10352,planta 2,exterior,1,60.0,False,False,Argüelles,moncloa,385000,383338.1095238096,1661.8904761904269
+15957,planta 5,exterior,3,69.0,True,False,San Cristóbal,villaverde,130000,118460.0,11540.0
+8203,planta 7,exterior,3,83.0,True,False,Tres Olivos - Valverde,fuencarral,315000,283040.835,31959.16499999998
+8204,planta 4,exterior,3,194.0,True,True,Arroyo del Fresno,fuencarral,825000,959291.0,-134291.0
+14275,planta 1,interior,2,36.0,True,False,Berruguete,tetuan,115000,172687.39,-57687.390000000014
+8049,planta 3,exterior,3,60.0,False,False,Pueblo Nuevo,ciudad lineal,150000,150290.0,-290.0
+6232,planta 1,interior,2,64.0,True,False,Almagro,chamberi,443000,429310.83909090905,13689.160909090948
+9603,planta 2,exterior,3,133.0,False,True,Puerta del Ángel,latina,329900,329074.9668831169,825.0331168830744
+13904,planta 1,exterior,3,94.0,True,True,Berruguete,tetuan,339000,329678.595,9321.405000000028
+11669,bajo,exterior,1,71.0,True,False,San Diego,puente-de-vallecas,199000,251575.00000000003,-52575.00000000003
+13476,semi-sotano,exterior,2,21.0,False,False,Bellas Vistas,tetuan,78500,75687.8,2812.199999999997
+13561,planta 5,exterior,4,81.0,True,False,Cuatro Caminos,tetuan,370000,409338.25,-39338.25
+4304,bajo,exterior,1,80.0,True,False,Palacio,centro,350000,360811.0,-10811.0
+5277,planta 10,exterior,3,140.0,True,False,Castilla,chamartin,470000,630483.46,-160483.45999999996
+7641,planta 1,exterior,4,168.0,True,False,San Juan Bautista,ciudad lineal,858000,843887.14,14112.859999999986
+9519,planta 4,exterior,3,112.0,True,True,Sanchinarro,hortaleza,460000,531160.0,-71160.0
+15398,bajo,exterior,1,84.0,True,False,Dúplex en Casco Histórico de Vallecas,villa-de-vallecas,165000,260540.55,-95540.54999999999
+9953,bajo,exterior,1,43.0,True,False,Campamento,latina,164768,158013.9,6754.100000000006
+6375,planta 2,interior,2,55.0,False,False,Trafalgar,chamberi,289000,302434.87,-13434.869999999995
+9536,planta 4,exterior,2,101.0,True,True,Sanchinarro,hortaleza,410000,459870.46,-49870.46000000002
+6606,planta 1,exterior,1,25.0,True,False,Trafalgar,chamberi,138000,185610.0,-47610.0
+3372,planta 2,exterior,2,74.0,True,False,Opañel,carabanchel,157000,199081.4,-42081.399999999994
+7436,planta 7,exterior,3,105.0,True,False,Ventas,ciudad lineal,395000,313621.5,81378.5
+14318,planta 2,interior,4,100.0,True,False,Cuatro Caminos,tetuan,540000,477255.0,62745.0
+12653,bajo,exterior,1,78.0,True,True,Rejas,san-blas,235000,269369.99333333335,-34369.99333333335
+1880,planta 1,exterior,3,129.0,True,False,Goya,barrio de salamanca,1080000,1080000.0,0.0
+7504,planta 1,exterior,3,151.0,True,True,Costillares,ciudad lineal,665000,664479.0,521.0
+9753,planta 4,exterior,3,84.0,True,False,Águilas,latina,188500,232534.97,-44034.97
+1323,planta 6,interior,2,73.0,True,False,Guindalera,barrio de salamanca,330000,372133.0,-42133.0
+13071,planta 4,exterior,3,89.0,True,True,Canillejas,san-blas,195000,309298.3333333334,-114298.33333333337
+15062,planta 3,exterior,3,76.0,False,False,Casco Histórico de Vicálvaro,vicalvaro,199000,191430.5,7569.5
+12935,planta 1,exterior,2,85.0,True,True,Rejas,san-blas,338000,325391.58,12608.419999999984
+3960,planta 4,interior,1,34.0,False,False,Lavapiés-Embajadores,centro,165000,166564.6666666667,-1564.666666666686
+5674,planta 3,exterior,1,72.0,True,False,Bernabéu-Hispanoamérica,chamartin,650000,399334.92,250665.08000000002
+8821,planta 4,exterior,3,170.0,True,True,Dúplex en Arroyo del Fresno,fuencarral,1050000,766404.28,283595.72
+15070,planta 8,exterior,2,96.0,True,True,El Cañaveral,vicalvaro,276390,318337.0,-41947.0
+8276,planta 3,exterior,4,144.0,True,True,Montecarmelo,fuencarral,630000,632790.3333333334,-2790.333333333372
+15877,planta 2,exterior,3,72.0,False,False,Villaverde Alto,villaverde,140000,113117.95433333334,26882.045666666658
+15896,planta 6,exterior,3,84.0,True,False,Los Ángeles,villaverde,146000,185250.6266666667,-39250.62666666671
+1572,planta 2,exterior,1,60.0,True,False,Recoletos,barrio de salamanca,435000,583731.0,-148731.0
+12631,planta 5,exterior,3,177.0,True,True,Rosas,san-blas,549000,567947.97,-18947.969999999972
+13684,planta 3,exterior,1,79.0,True,False,Ventilla-Almenara,tetuan,405000,397618.0,7382.0
+15300,planta 3,exterior,4,117.0,True,False,Santa Eugenia,villa-de-vallecas,419000,253105.84,165894.16
+3829,planta 4,exterior,2,126.0,True,False,Chueca-Justicia,centro,960000,923571.5,36428.5
+2795,bajo,exterior,1,35.0,False,False,Opañel,carabanchel,109000,115306.68,-6306.679999999993
+5956,planta 3,exterior,2,86.0,True,False,Almagro,chamberi,800000,671204.0,128796.0
+15466,planta 2,exterior,2,50.0,False,False,Casco Histórico de Vallecas,villa-de-vallecas,80500,105790.81,-25290.809999999998
+10738,planta 1,exterior,5,123.0,True,False,Argüelles,moncloa,735000,590840.0,144160.0
+11010,planta 4,exterior,2,65.0,False,False,Vinateros,moratalaz,197000,194599.95,2400.0499999999884
+15026,planta 3,exterior,2,75.0,True,True,El Cañaveral,vicalvaro,245000,252921.99,-7921.989999999991
+15818,planta 3,exterior,2,70.0,False,False,Los Rosales,villaverde,127000,126621.99666666667,378.00333333332674
+14543,planta 2,exterior,2,80.0,True,True,12 de Octubre-Orcasur,usera,225000,228807.22833333336,-3807.2283333333617
+15165,planta 4,exterior,2,90.0,True,True,Casco Histórico de Vallecas,villa-de-vallecas,225500,227363.99,-1863.9899999999907
+6346,planta 5,exterior,3,140.0,True,False,Arapiles,chamberi,825000,902984.0,-77984.0
+4747,planta 2,exterior,1,33.0,False,False,Malasaña-Universidad,centro,152000,192595.13333333336,-40595.13333333336
+9384,planta 2,exterior,3,150.0,True,True,Sanchinarro,hortaleza,660000,632977.01,27022.98999999999
+7675,planta 8,exterior,2,75.0,True,False,Concepción,ciudad lineal,225000,245265.9523809524,-20265.952380952396
+3473,semi-sotano,interior,2,58.0,False,False,San Isidro,carabanchel,85000,138470.5,-53470.5
+8380,planta 5,exterior,3,131.0,True,True,Ático en Las Tablas,fuencarral,667000,683097.0,-16097.0
+14252,entreplanta,exterior,2,65.0,True,True,Bellas Vistas,tetuan,349000,297406.0,51594.0
+15333,planta 1,exterior,3,114.0,True,False,Santa Eugenia,villa-de-vallecas,225000,202945.8,22054.20000000001
+11336,bajo,exterior,2,73.0,False,False,San Diego,puente-de-vallecas,133000,153303.95,-20303.95000000001
+5087,planta 1,exterior,2,121.0,True,False,Bernabéu-Hispanoamérica,chamartin,749000,781595.0,-32595.0
+9305,planta 2,exterior,3,140.0,True,False,Conde Orgaz-Piovera,hortaleza,923000,882784.5,40215.5
+8184,planta 2,exterior,4,123.0,True,True,Peñagrande,fuencarral,379000,441816.0,-62816.0
+8316,planta 4,exterior,4,129.0,True,True,Las Tablas,fuencarral,580000,610202.2,-30202.199999999953
+5063,planta 4,exterior,2,92.0,True,False,Ciudad Jardín,chamartin,596920,468229.3,128690.70000000001
+15560,planta 1,exterior,3,75.0,True,False,San Cristóbal,villaverde,138000,134842.6,3157.399999999994
+10597,planta 4,exterior,4,170.0,True,False,Argüelles,moncloa,725000,1072830.4,-347830.3999999999
+12584,planta 2,exterior,2,185.0,True,False,Jerónimos,retiro,1800000,1877510.0,-77510.0
+10458,casa,exterior,4,302.0,False,True,Chalet adosado en El Plantío,moncloa,835000,970990.0,-135990.0
+13863,planta 1,interior,1,30.0,False,False,Valdeacederas,tetuan,99000,141772.95833333334,-42772.95833333334
+4840,planta 5,exterior,5,174.0,True,True,Nueva España,chamartin,1125000,1036872.0,88128.0
+4091,planta 3,exterior,5,293.0,True,False,Malasaña-Universidad,centro,1875000,1332900.0,542100.0
+6713,planta 1,exterior,4,189.0,True,False,Vallehermoso,chamberi,790000,1084458.0,-294458.0
+11776,chalet,exterior,4,248.0,False,False,Portazgo,puente-de-vallecas,539000,498759.5,40240.5
+15645,planta 4,exterior,2,58.0,False,False,San Cristóbal,villaverde,143000,108106.97,34893.03
+14948,planta 3,exterior,2,75.0,True,True,El Cañaveral,vicalvaro,225000,252921.99,-27921.98999999999
+14166,planta 3,exterior,3,85.0,False,False,Bellas Vistas,tetuan,280000,286515.0,-6515.0
+15927,planta 4,exterior,2,59.0,False,False,San Cristóbal,villaverde,68000,118133.91,-50133.91
+11504,planta 2,exterior,3,53.0,False,False,Numancia,puente-de-vallecas,163000,148839.0,14161.0
+6609,planta 2,interior,2,107.0,True,False,Nuevos Ministerios-Ríos Rosas,chamberi,440000,657422.8666666667,-217422.8666666667
+15742,planta 1,exterior,3,107.0,True,False,Los Ángeles,villaverde,199900,253184.2,-53284.20000000001
+3225,planta 3,exterior,2,82.0,False,False,Vista Alegre,carabanchel,165000,154783.47619047618,10216.523809523816
+13214,planta 4,exterior,3,130.0,True,True,Rejas,san-blas,450000,427577.49869624816,22422.501303751837
+9638,chalet,exterior,5,253.0,False,True,Puerta del Ángel,latina,650000,556999.67,93000.32999999996
+11714,planta 1,exterior,1,37.0,True,False,San Diego,puente-de-vallecas,119500,121103.44,-1603.4400000000023
+9817,bajo,exterior,3,112.0,True,False,Águilas,latina,198000,252082.22,-54082.22
+15176,bajo,exterior,3,126.0,True,False,Casco Histórico de Vallecas,villa-de-vallecas,217000,293356.0,-76356.0
+7485,semi-sotano,exterior,1,90.0,True,False,Concepción,ciudad lineal,180000,405308.6666666666,-225308.66666666663
+8803,planta 2,exterior,3,130.0,True,False,Pilar,fuencarral,400000,403064.99,-3064.9899999999907
+3876,planta 3,exterior,2,99.0,True,False,Huertas-Cortes,centro,875000,637729.97,237270.03000000003
+1380,bajo,interior,1,60.0,False,False,Goya,barrio de salamanca,350000,362206.2142857143,-12206.214285714319
+8046,planta 1,exterior,3,110.0,True,False,Ventas,ciudad lineal,264000,264370.0,-370.0
+2414,planta 4,exterior,3,98.0,True,False,Goya,barrio de salamanca,557500,603631.6666666666,-46131.66666666663
+13239,casa,exterior,4,100.0,False,False,Chalet adosado en Canillejas,san-blas,265000,626561.49,-361561.49
+1642,planta 3,exterior,4,307.0,True,False,Castellana,barrio de salamanca,2300000,2600568.3455433454,-300568.34554334544
+12211,planta 6,interior,3,120.0,True,False,Ibiza,retiro,535000,613209.0,-78209.0
+14327,bajo,exterior,1,29.0,False,False,Bellas Vistas,tetuan,124000,119033.33333333334,4966.666666666657
+10576,planta 4,exterior,2,65.0,False,False,Valdezarza,moncloa,226000,226849.15,-849.1499999999942
+8284,planta 2,exterior,7,456.0,True,True,Peñagrande,fuencarral,1288870,1253961.4133333333,34908.58666666667
+13410,planta 3,exterior,2,103.0,True,False,Cuzco-Castillejos,tetuan,495000,529470.99,-34470.98999999999
+13737,planta 1,exterior,3,130.0,True,False,Cuzco-Castillejos,tetuan,950000,933300.0,16700.0
+2522,entreplanta,exterior,2,80.0,True,False,Goya,barrio de salamanca,695000,639413.3333333334,55586.66666666663
+1906,planta 4,interior,4,94.0,True,False,Goya,barrio de salamanca,557500,586426.0,-28926.0
+11400,planta 1,interior,2,34.0,False,False,San Diego,puente-de-vallecas,128900,89187.0,39713.0
+10295,chalet,exterior,5,272.0,False,True,Chalet adosado en Aravaca,moncloa,948000,1207150.0,-259150.0
+14338,bajo,exterior,2,130.0,False,True,Dúplex en Valdeacederas,tetuan,415000,427177.5,-12177.5
+2592,planta 5,exterior,4,165.0,True,False,Goya,barrio de salamanca,799000,860700.0,-61700.0
+6630,planta 2,interior,1,32.0,True,False,Trafalgar,chamberi,204700,175213.0,29487.0
+3666,bajo,exterior,3,108.0,False,False,Abrantes,carabanchel,215000,209837.96666666667,5162.033333333326
+3873,planta 1,exterior,1,123.0,True,False,Malasaña-Universidad,centro,870000,846869.98,23130.02000000002
+9158,planta 4,exterior,4,180.0,True,True,Palomas,hortaleza,860900,856039.1392857144,4860.8607142856345
+7337,bajo,exterior,2,58.0,True,False,Ventas,ciudad lineal,144900,174511.95,-29611.95000000001
+9227,planta 1,exterior,2,104.0,True,True,Sanchinarro,hortaleza,430000,466671.64,-36671.640000000014
+13687,planta 9,exterior,3,132.0,True,False,Cuzco-Castillejos,tetuan,715000,715000.0,0.0
+9430,planta 3,exterior,1,68.0,True,True,Sanchinarro,hortaleza,329000,329000.0,0.0
+15734,planta 5,exterior,3,120.0,True,True,Los Ángeles,villaverde,290000,317414.14,-27414.140000000014
+2517,planta 5,exterior,2,130.0,True,False,Recoletos,barrio de salamanca,1315000,1200650.0,114350.0
+4227,planta 1,exterior,5,154.0,True,False,Chueca-Justicia,centro,949000,826646.8333333335,122353.16666666651
+8185,chalet,exterior,5,340.0,False,True,Peñagrande,fuencarral,1100000,987286.0,112714.0
+1987,planta 9,exterior,4,220.0,True,False,Castellana,barrio de salamanca,1900000,2033275.0,-133275.0
+3775,planta 1,exterior,4,174.0,False,False,Malasaña-Universidad,centro,850000,841206.0,8794.0
+3621,planta 2,exterior,3,72.0,False,False,Opañel,carabanchel,189000,162238.6,26761.399999999994
+9649,planta 6,exterior,3,106.0,True,False,Campamento,latina,249900,352572.64666666667,-102672.64666666667
+4211,planta 4,exterior,3,121.0,True,False,Huertas-Cortes,centro,725000,649490.0,75510.0
+15092,planta 5,exterior,2,89.0,True,True,Dúplex en Valdebernardo - Valderrivas,vicalvaro,465000,282896.73,182103.27000000002
+8198,planta 5,exterior,2,119.0,True,False,Las Tablas,fuencarral,470000,520659.62666666665,-50659.62666666665
+3080,planta 4,exterior,3,75.0,False,False,Opañel,carabanchel,169000,167544.325,1455.6749999999884
+12245,bajo,exterior,3,91.0,False,False,Estrella,retiro,338000,392077.33333333326,-54077.333333333256
+12683,planta 2,exterior,3,114.0,True,True,Rosas,san-blas,298900,386344.98,-87444.97999999998
+9885,planta 3,exterior,2,82.0,True,False,Puerta del Ángel,latina,160000,268908.8,-108908.79999999999
+11764,bajo,exterior,2,52.0,False,False,Portazgo,puente-de-vallecas,137000,120369.77777777778,16630.22222222222
+13612,planta 1,exterior,4,78.0,False,False,Valdeacederas,tetuan,239000,330244.5,-91244.5
+14559,bajo,exterior,1,52.0,True,False,Pradolongo,usera,158600,149249.29,9350.709999999992
+11947,planta 3,exterior,3,47.0,False,False,Portazgo,puente-de-vallecas,112500,114617.05,-2117.050000000003
+10044,planta 3,exterior,3,51.0,False,False,Puerta del Ángel,latina,130000,131679.0,-1679.0
+7419,planta 6,exterior,4,179.0,True,False,Costillares,ciudad lineal,639000,638086.2595430454,913.7404569545761
+3765,planta 1,interior,1,52.0,True,False,Huertas-Cortes,centro,270000,325295.0,-55295.0
+8785,planta 2,exterior,1,47.0,True,False,Tres Olivos - Valverde,fuencarral,185000,180825.53,4174.470000000001
+6779,bajo,exterior,2,330.0,True,False,Almagro,chamberi,1950000,2085105.0,-135105.0
+5692,bajo,exterior,4,92.0,True,False,El Viso,chamartin,429000,609541.0,-180541.0
+4181,planta 4,exterior,3,131.0,True,False,Sol,centro,695000,676005.6403333333,18994.359666666714
+4844,planta 2,exterior,5,380.0,True,False,El Viso,chamartin,2100000,2953493.333333333,-853493.333333333
+9251,planta 4,exterior,1,93.0,True,False,Virgen del Cortijo - Manoteras,hortaleza,319000,318692.0,308.0
+14026,planta 3,exterior,3,75.0,True,False,Cuatro Caminos,tetuan,330000,453707.94,-123707.94
+5516,planta 7,exterior,4,136.0,True,False,Castilla,chamartin,525000,598438.5,-73438.5
+6069,planta 2,interior,3,67.0,True,False,Arapiles,chamberi,350000,336660.95,13339.049999999988
+15777,planta 3,exterior,3,55.0,False,False,Los Rosales,villaverde,91000,92040.0,-1040.0
+6720,bajo,interior,2,72.0,True,False,Nuevos Ministerios-Ríos Rosas,chamberi,349000,350989.99,-1989.9899999999907
+2837,planta 2,exterior,2,67.0,False,False,Puerta Bonita,carabanchel,129000,127232.42261904765,1767.5773809523525
+15691,planta 2,exterior,3,66.0,False,False,Los Ángeles,villaverde,123000,126334.0,-3334.0
+995,planta 4,exterior,2,75.0,True,True,Recoletos,barrio de salamanca,995000,916719.0,78281.0
+9980,bajo,exterior,3,65.0,False,False,Águilas,latina,165000,155817.37666666665,9182.623333333351
+4568,planta 1,exterior,1,64.0,False,False,Palacio,centro,365000,348784.98,16215.020000000019
+5471,planta 1,exterior,2,77.0,True,True,Prosperidad,chamartin,445401,432960.4,12440.599999999977
+11367,planta 2,exterior,3,75.0,False,False,Entrevías,puente-de-vallecas,133500,129891.94,3608.0599999999977
+12652,planta 2,exterior,1,137.0,True,True,Dúplex en Rejas,san-blas,360000,691417.48,-331417.48
+4759,planta 1,exterior,2,114.0,True,False,Palacio,centro,597900,584552.0,13348.0
+8854,chalet,exterior,6,750.0,False,True,Chalet pareado en Conde Orgaz-Piovera,hortaleza,3100000,2842400.0,257600.0
+10696,planta 3,exterior,3,125.0,True,False,Argüelles,moncloa,659000,709665.0,-50665.0
+7581,planta 14,exterior,4,265.0,True,True,San Pascual,ciudad lineal,870000,940315.0,-70315.0
+2203,planta 3,exterior,3,194.0,True,True,Goya,barrio de salamanca,3000000,1105016.0,1894984.0
+10148,planta 1,exterior,3,85.0,True,False,Águilas,latina,175000,231170.0,-56170.0
+15514,planta 3,exterior,3,60.0,False,False,Villaverde Alto,villaverde,120000,116238.74358974362,3761.2564102563774
+7039,planta 4,exterior,3,99.0,False,False,Pueblo Nuevo,ciudad lineal,209900,254937.5,-45037.5
+7886,planta 1,exterior,3,59.0,False,False,Pueblo Nuevo,ciudad lineal,145950,148351.0,-2401.0
+8125,planta 6,exterior,5,232.0,True,True,Mirasierra,fuencarral,1100000,1063350.0,36650.0
+2168,planta 3,exterior,3,134.0,True,False,Lista,barrio de salamanca,820000,821780.0,-1780.0
+6750,planta 1,exterior,2,151.0,True,True,Trafalgar,chamberi,1140000,1400480.0,-260480.0
+15572,planta 1,exterior,2,65.0,False,False,Villaverde Alto,villaverde,112500,124290.27999999998,-11790.279999999984
+13282,planta 2,exterior,4,161.0,True,True,Cuzco-Castillejos,tetuan,680000,822920.0,-142920.0
+15888,bajo,exterior,1,45.0,False,False,Villaverde Alto,villaverde,96000,109575.0,-13575.0
+9096,planta 1,exterior,2,93.0,True,False,Sanchinarro,hortaleza,480000,401359.0,78641.0
+1888,bajo,exterior,2,60.0,True,False,Goya,barrio de salamanca,320000,376510.0,-56510.0
+12731,planta 1,exterior,3,105.0,True,False,Rejas,san-blas,339999,338512.0,1487.0
+7055,planta 1,exterior,3,68.0,True,False,Pueblo Nuevo,ciudad lineal,164000,204874.92,-40874.92000000001
+13547,bajo,exterior,2,55.0,False,False,Berruguete,tetuan,189000,180199.93,8800.070000000007
+8595,planta 2,exterior,1,66.0,True,True,Las Tablas,fuencarral,325000,371900.4833333333,-46900.48333333328
+9707,bajo,exterior,2,62.0,True,False,Aluche,latina,169000,151572.0,17428.0
+11115,planta 2,exterior,3,89.0,True,False,Fontarrón,moratalaz,239000,196467.28,42532.72
+5678,planta 4,exterior,1,130.0,True,True,El Viso,chamartin,900000,1116100.0,-216100.0
+2922,planta 3,exterior,3,85.0,True,False,Vista Alegre,carabanchel,230000,191276.82,38723.17999999999
+6589,planta 3,exterior,4,289.0,True,True,Almagro,chamberi,1690000,2065715.0,-375715.0
+3763,planta 1,exterior,4,380.0,True,True,Huertas-Cortes,centro,1800000,2104820.0,-304820.0
+1362,planta 1,exterior,3,94.0,True,False,Castellana,barrio de salamanca,725000,719401.0,5599.0
+642,planta 3,exterior,2,104.0,True,True,Campo de las Naciones-Corralejos,barajas,485000,455390.0,29610.0
+2594,planta 6,interior,1,50.0,True,False,Recoletos,barrio de salamanca,530000,426924.6666666666,103075.33333333337
+14631,planta 4,exterior,3,80.0,False,False,Almendrales,usera,145000,138786.60916666666,6213.390833333338
+13995,bajo,exterior,1,64.0,True,False,Valdeacederas,tetuan,245000,192226.76,52773.23999999999
+14552,planta 3,exterior,4,116.0,False,True,Almendrales,usera,249000,213676.0,35324.0
+8491,bajo,exterior,2,48.0,False,False,Tres Olivos - Valverde,fuencarral,126000,125160.0,840.0
+4284,planta 4,exterior,2,52.0,True,False,Malasaña-Universidad,centro,459000,459000.0,0.0
+12993,planta 4,exterior,3,80.0,False,False,Rejas,san-blas,149999,162429.49,-12430.48999999999
+3113,planta 6,exterior,1,49.0,True,False,Opañel,carabanchel,140000,180713.0,-40713.0
+8561,planta 3,exterior,3,72.0,True,False,Pilar,fuencarral,239000,256618.33333333337,-17618.333333333372
+5344,planta 2,exterior,5,197.0,True,False,El Viso,chamartin,875000,1248921.12,-373921.1200000001
+10572,planta 2,exterior,2,71.0,False,False,Valdezarza,moncloa,198000,231412.43,-33412.42999999999
+13345,planta 1,exterior,2,59.0,False,False,Berruguete,tetuan,156650,215472.29333333333,-58822.293333333335
+14093,planta 1,exterior,3,75.0,False,False,Bellas Vistas,tetuan,250000,266549.0,-16549.0
+15355,planta 1,exterior,2,52.0,False,False,Casco Histórico de Vallecas,villa-de-vallecas,130000,122172.92000000001,7827.079999999987
+3674,planta 1,exterior,1,52.0,False,False,Puerta Bonita,carabanchel,129000,128097.30000000002,902.6999999999825
+6327,planta 1,exterior,6,260.0,True,False,Dúplex en Vallehermoso,chamberi,880000,1062835.0,-182835.0
+10741,planta 1,exterior,3,78.0,True,False,Argüelles,moncloa,405000,410081.4,-5081.400000000023
+14234,planta 2,exterior,2,65.0,False,False,Bellas Vistas,tetuan,255000,243727.55,11272.450000000012
+13950,planta 4,exterior,2,96.0,True,True,Cuatro Caminos,tetuan,470000,487312.0,-17312.0
+14191,planta 2,exterior,1,63.0,True,False,Berruguete,tetuan,219000,220751.99999999997,-1751.999999999971
+7868,planta 1,exterior,4,148.0,True,True,San Pascual,ciudad lineal,580000,661806.8,-81806.80000000005
+785,planta 1,exterior,4,125.0,False,False,Casco Histórico de Barajas,barajas,300000,352414.97,-52414.96999999997
+8901,planta 6,exterior,3,82.0,True,False,Pinar del Rey,hortaleza,329000,263130.22,65869.78000000003
+3805,planta 4,exterior,2,52.0,True,False,Malasaña-Universidad,centro,459000,459000.0,0.0
+11268,planta 4,exterior,3,71.0,True,False,Numancia,puente-de-vallecas,179000,187792.93,-8792.929999999993
+12381,planta 1,exterior,3,100.0,True,False,Niño Jesús,retiro,495000,569339.0,-74339.0
+2604,planta 4,exterior,4,400.0,True,False,Recoletos,barrio de salamanca,4500000,4158000.0,342000.0
+3754,planta 3,exterior,3,195.0,True,False,Chueca-Justicia,centro,1880000,1333780.0,546220.0
+10556,planta 2,exterior,2,109.0,True,False,Aravaca,moncloa,395700,424405.86,-28705.859999999986
+8889,planta 2,exterior,2,108.0,True,False,Virgen del Cortijo - Manoteras,hortaleza,498000,421579.97,76420.03000000003
+8360,planta 5,exterior,3,113.0,True,True,Las Tablas,fuencarral,590000,535840.0,54160.0
+8269,planta 2,exterior,3,79.0,False,False,Peñagrande,fuencarral,250000,247670.0,2330.0
+8822,bajo,exterior,2,71.0,False,False,Peñagrande,fuencarral,105000,244099.0,-139099.0
+3525,planta 2,exterior,3,69.0,False,False,Puerta Bonita,carabanchel,165000,151233.0,13767.0
+8158,planta 5,exterior,2,112.0,True,True,Las Tablas,fuencarral,667000,485380.0,181620.0
+948,planta 1,exterior,6,400.0,True,True,Castellana,barrio de salamanca,2200000,3339600.0,-1139600.0
+8221,planta 3,exterior,5,141.0,True,False,Peñagrande,fuencarral,425000,653740.0,-228740.0
+15395,planta 1,exterior,2,65.0,True,False,Casco Histórico de Vallecas,villa-de-vallecas,170000,162114.99,7885.010000000009
+6505,planta 1,exterior,1,80.0,True,True,Vallehermoso,chamberi,450000,464889.0,-14889.0
+15232,planta 3,exterior,3,115.0,True,True,Ensanche de Vallecas - La Gavia,villa-de-vallecas,335000,340768.13285714283,-5768.132857142831
+13967,planta 2,exterior,3,61.0,False,False,Berruguete,tetuan,195000,196966.14666666664,-1966.1466666666383
+9477,planta 1,exterior,6,339.0,True,True,Pinar del Rey,hortaleza,1135000,967934.82,167065.18000000005
+3332,bajo,exterior,2,72.0,True,False,Puerta Bonita,carabanchel,160000,180431.0,-20431.0
+434,planta 1,exterior,3,97.0,True,False,Chopera,Arganzuela,390000,357891.5714285714,32108.42857142858
+5538,planta 2,exterior,3,84.0,False,False,Prosperidad,chamartin,440000,352676.0,87324.0
+7081,planta 1,exterior,5,342.0,True,True,San Juan Bautista,ciudad lineal,1250000,1369456.0,-119456.0
+2538,planta 5,exterior,2,131.0,True,True,Guindalera,barrio de salamanca,725000,679458.0,45542.0
+8812,planta 1,exterior,1,43.0,False,False,Tres Olivos - Valverde,fuencarral,137000,145044.0,-8044.0
+14200,planta 4,exterior,1,52.0,True,False,Berruguete,tetuan,260000,192888.82,67111.18
+12386,planta 14,exterior,4,150.0,True,True,Estrella,retiro,625000,633440.0,-8440.0
+1922,planta 3,exterior,2,111.0,True,False,Guindalera,barrio de salamanca,472500,503559.96,-31059.96000000002
+5621,planta 13,exterior,3,120.0,True,False,Bernabéu-Hispanoamérica,chamartin,775000,685002.3333333335,89997.66666666651
+2153,semi-sotano,exterior,2,90.0,True,False,Goya,barrio de salamanca,398000,530460.2833333333,-132460.28333333333
+13023,bajo,exterior,3,57.0,False,False,Hellín,san-blas,140000,155747.65666666668,-15747.656666666677
+4168,planta 1,exterior,4,150.0,True,False,Malasaña-Universidad,centro,549900,722499.88,-172599.88
+15274,planta 3,exterior,3,63.0,False,False,Casco Histórico de Vallecas,villa-de-vallecas,99000,125537.03533333333,-26537.035333333333
+10955,chalet,exterior,6,1.055,False,True,Aravaca,moncloa,3200000,3211872.0,-11872.0
+2544,planta 3,interior,3,124.0,True,False,Guindalera,barrio de salamanca,700000,656053.15,43946.84999999998
+4752,planta 1,exterior,1,60.0,True,False,Huertas-Cortes,centro,480000,463264.99,16735.01000000001
+4974,planta 2,exterior,3,85.0,False,False,Prosperidad,chamartin,349900,355093.0,-5193.0
+15353,planta 1,exterior,3,71.0,True,False,Casco Histórico de Vallecas,villa-de-vallecas,170000,175940.2333333333,-5940.233333333308
+12056,planta 1,exterior,2,157.0,True,False,Jerónimos,retiro,1500000,1282778.3333333333,217221.66666666674
+4439,bajo,exterior,3,68.0,False,False,Lavapiés-Embajadores,centro,225000,287680.10285714286,-62680.10285714286
+4810,planta 3,exterior,2,107.0,True,False,El Viso,chamartin,695000,661969.8333333334,33030.16666666663
+2969,planta 2,exterior,3,64.0,False,False,San Isidro,carabanchel,153000,153160.0,-160.0
+9832,planta 2,exterior,3,87.0,True,False,Lucero,latina,180000,229763.91,-49763.91
+4404,planta 3,exterior,6,141.0,True,False,Huertas-Cortes,centro,685000,699228.5,-14228.5
+4110,planta 3,exterior,2,82.0,False,False,Huertas-Cortes,centro,399000,399000.0,0.0
+4698,planta 5,exterior,1,57.0,False,False,Sol,centro,355000,307756.99,47243.01000000001
+14917,planta 4,exterior,2,70.0,True,False,Ambroz,vicalvaro,162000,219064.3,-57064.29999999999
+13340,planta 1,exterior,6,240.0,True,False,Cuzco-Castillejos,tetuan,870000,958828.5714285714,-88828.57142857136
+2513,planta 4,exterior,3,255.0,True,False,Castellana,barrio de salamanca,1500000,2247033.333333333,-747033.333333333
+961,planta 6,exterior,2,212.0,True,False,Dúplex en Goya,barrio de salamanca,1625000,1526428.6,98571.3999999999
+15930,bajo,exterior,1,46.0,False,False,Villaverde Alto,villaverde,78500,98756.0,-20256.0
+166,planta 4,exterior,4,136.0,True,False,Palos de Moguer,Arganzuela,525000,514080.0,10920.0
+2835,planta 1,exterior,2,75.0,False,False,San Isidro,carabanchel,168000,167302.4049284049,697.595071595104
+7008,planta 10,exterior,4,152.0,True,True,San Pascual,ciudad lineal,850000,676484.0,173516.0
+10619,entreplanta,exterior,2,69.0,False,False,Aravaca,moncloa,235000,277159.0,-42159.0
+9318,chalet,exterior,4,140.0,False,False,Apóstol Santiago,hortaleza,390000,580257.1428571428,-190257.14285714284
+6710,planta 6,exterior,5,244.0,True,True,Vallehermoso,chamberi,960000,1049830.0,-89830.0
+6679,planta 2,exterior,4,157.0,True,False,Vallehermoso,chamberi,750000,883782.0000000001,-133782.00000000012
+7974,entreplanta,exterior,2,78.0,True,False,Pueblo Nuevo,ciudad lineal,247200,239153.0,8047.0
+11599,planta 3,exterior,2,52.0,False,False,Portazgo,puente-de-vallecas,118200,120904.99999999999,-2704.9999999999854
+1440,planta 7,exterior,4,129.0,True,False,Goya,barrio de salamanca,800000,836240.0,-36240.0
+10,bajo,interior,3,139.0,False,False,Acacias,Arganzuela,429900,439555.0,-9655.0
+209,planta 4,interior,2,34.0,False,False,Palos de Moguer,Arganzuela,130000,151640.6666666667,-21640.666666666686
+3950,planta 1,interior,4,118.0,True,False,Lavapiés-Embajadores,centro,650000,462421.0,187579.0
+5877,bajo,exterior,2,64.0,True,False,Arapiles,chamberi,360000,307507.5,52492.5
+3285,planta 4,exterior,3,92.0,False,False,Puerta Bonita,carabanchel,160500,159847.0,653.0
+3801,planta 1,exterior,3,274.0,False,False,Malasaña-Universidad,centro,995000,1188668.0,-193668.0
+14028,planta 6,exterior,4,125.0,True,False,Berruguete,tetuan,409000,445480.0,-36480.0
+13889,planta 2,exterior,1,53.0,True,False,Bellas Vistas,tetuan,285000,270858.0,14142.0
+2895,planta 4,exterior,2,67.0,False,False,Vista Alegre,carabanchel,140000,139891.0,109.0
+1000,planta 2,exterior,4,229.0,True,False,Recoletos,barrio de salamanca,2800000,2363940.0,436060.0
+8953,planta 5,exterior,3,113.0,True,True,Sanchinarro,hortaleza,556000,550895.0,5105.0
+5761,planta 1,exterior,4,159.0,True,True,Castilla,chamartin,638000,740193.0,-102193.0
+2933,planta 2,exterior,2,85.0,True,False,Opañel,carabanchel,265000,241072.85,23927.149999999994
+15677,planta 5,exterior,2,76.0,False,False,San Cristóbal,villaverde,91500,101446.23333333332,-9946.233333333323
+15016,bajo,exterior,3,60.0,False,False,Ambroz,vicalvaro,109000,130812.87666666666,-21812.876666666663
+8963,chalet,exterior,5,422.0,False,True,Chalet pareado en Conde Orgaz-Piovera,hortaleza,1690000,1719486.04,-29486.040000000037
+5376,planta 9,exterior,6,459.0,True,False,Ático en El Viso,chamartin,2300000,3563310.0,-1263310.0
+8669,planta 3,exterior,2,113.0,True,True,Las Tablas,fuencarral,430000,480460.0,-50460.0
+3567,planta 5,exterior,3,77.0,True,False,Abrantes,carabanchel,158000,199005.0,-41005.0
+4588,bajo,exterior,1,55.0,False,False,Palacio,centro,218000,279955.97,-61955.96999999997
+12962,planta 4,exterior,1,50.0,True,False,Simancas,san-blas,178900,165174.5,13725.5
+19,planta 4,exterior,2,110.0,True,True,Palos de Moguer,Arganzuela,585000,500525.22,84474.78000000003
+3301,planta 2,exterior,3,80.0,False,False,Opañel,carabanchel,208000,167741.0,40259.0
+12206,planta 3,exterior,4,145.0,True,False,Jerónimos,retiro,723550,699218.5,24331.5
+643,planta 2,exterior,3,99.0,True,True,Alameda de Osuna,barajas,355000,432401.97,-77401.96999999997
+5618,planta 3,exterior,3,77.0,False,False,Prosperidad,chamartin,329000,313540.0,15460.0
+1720,planta 5,exterior,3,210.0,True,False,Castellana,barrio de salamanca,1560000,1721100.0,-161100.0
+14488,planta 4,exterior,3,111.0,True,False,Pradolongo,usera,189000,277485.79666666663,-88485.79666666663
+9895,planta 1,exterior,3,63.0,False,False,Los Cármenes,latina,134000,136479.6,-2479.600000000006
+12822,planta 1,exterior,3,115.0,True,True,Rosas,san-blas,395000,387928.0,7072.0
+1255,planta 5,exterior,1,52.0,False,False,Recoletos,barrio de salamanca,260000,492473.99,-232473.99
+3489,planta 2,exterior,3,94.0,True,False,Abrantes,carabanchel,100500,184747.73,-84247.73000000001
+3731,planta 1,exterior,3,180.0,True,False,Malasaña-Universidad,centro,950000,851656.0,98344.0
+11677,bajo,exterior,1,51.0,True,False,Entrevías,puente-de-vallecas,105000,95897.5,9102.5
+200,planta 1,exterior,3,85.0,True,False,Delicias,Arganzuela,315000,335598.16666666674,-20598.166666666744
+3808,planta 2,exterior,1,40.0,False,False,Lavapiés-Embajadores,centro,214000,184200.0,29800.0
+13268,planta 2,exterior,5,359.0,True,True,Cuatro Caminos,tetuan,1495000,1464050.0,30950.0
+9681,planta 2,exterior,4,118.0,True,False,Puerta del Ángel,latina,308000,290421.52,17578.47999999998
+10206,planta 3,exterior,3,51.0,False,False,Puerta del Ángel,latina,130000,131679.0,-1679.0
+11775,bajo,exterior,3,96.0,True,False,Palomeras sureste,puente-de-vallecas,163000,189769.0,-26769.0
+13816,planta 9,exterior,3,140.0,True,False,Cuzco-Castillejos,tetuan,715000,715000.0,0.0
+1788,planta 1,exterior,2,65.0,False,False,Recoletos,barrio de salamanca,420000,643916.0,-223916.0
+7939,planta 1,exterior,2,76.0,True,True,Quintana,ciudad lineal,372000,353810.1,18189.900000000023
+5920,planta 7,exterior,4,202.0,True,False,Arapiles,chamberi,1095000,1003319.98,91680.02000000002
+14309,planta 4,exterior,4,170.0,True,True,Cuatro Caminos,tetuan,860000,830964.56,29035.439999999944
+5852,planta 1,exterior,3,85.0,True,False,Prosperidad,chamartin,450000,455621.0,-5621.0
+15459,planta 3,exterior,2,80.0,True,True,Ensanche de Vallecas - La Gavia,villa-de-vallecas,290000,236826.63190476195,53173.36809523805
+10767,casa,exterior,6,631.0,False,True,El Plantío,moncloa,3300000,2757570.0,542430.0
+15842,bajo,exterior,2,80.0,True,True,Villaverde Alto,villaverde,152000,172838.0,-20838.0
+12,planta 2,exterior,3,85.0,True,False,Delicias,Arganzuela,299000,331564.8333333334,-32564.833333333372
+5547,casa,exterior,4,440.0,False,False,Chalet pareado en El Viso,chamartin,3900000,3928250.0,-28250.0
+9949,planta 3,exterior,3,108.0,True,False,Los Cármenes,latina,339200,296095.0,43105.0
+12846,planta 4,exterior,2,52.0,False,False,Arcos,san-blas,125000,140237.0,-15237.0
+11576,planta 4,exterior,4,83.0,True,False,Numancia,puente-de-vallecas,165000,211991.99,-46991.98999999999
+3856,planta 3,exterior,2,110.0,True,False,Palacio,centro,570000,570154.0,-154.0
+15242,planta 6,exterior,2,77.0,True,True,Ensanche de Vallecas - La Gavia,villa-de-vallecas,295000,276763.998,18236.00199999998
+5937,planta 2,exterior,7,303.0,True,False,Trafalgar,chamberi,1250000,1250000.0,0.0
+11262,bajo,exterior,3,68.0,False,False,Entrevías,puente-de-vallecas,124900,142449.5961111111,-17549.59611111111
+8150,planta 6,exterior,1,62.0,True,True,Peñagrande,fuencarral,340000,412627.13,-72627.13
+12924,planta 2,exterior,4,80.0,True,False,Hellín,san-blas,160000,236061.945,-76061.945
+11068,planta 4,exterior,2,65.0,False,False,Vinateros,moratalaz,197000,194599.95,2400.0499999999884
+4276,planta 3,interior,1,41.0,False,False,Palacio,centro,157000,161359.0,-4359.0
+5580,planta 2,exterior,5,258.0,True,False,El Viso,chamartin,1600000,1687348.9285714286,-87348.92857142864
+13718,planta 1,exterior,2,67.0,True,False,Berruguete,tetuan,317000,270685.0,46315.0
+9460,planta 4,exterior,3,90.0,True,True,Apóstol Santiago,hortaleza,275000,363539.0,-88539.0
+3168,bajo,exterior,2,53.0,True,False,San Isidro,carabanchel,115000,144345.34,-29345.339999999997
+4613,planta 2,exterior,2,72.0,True,False,Malasaña-Universidad,centro,498000,436208.99,61791.01000000001
+3653,planta 1,exterior,1,51.0,True,False,Vista Alegre,carabanchel,159000,162217.8,-3217.7999999999884
+8782,bajo,exterior,4,155.0,False,False,Peñagrande,fuencarral,305000,629886.5,-324886.5
+3237,bajo,exterior,3,80.0,False,False,Comillas,carabanchel,226000,219305.19138095237,6694.8086190476315
+7670,planta 3,exterior,3,117.0,True,False,Quintana,ciudad lineal,450000,375006.93,74993.07
+9520,planta 6,exterior,1,50.0,True,False,Pinar del Rey,hortaleza,159000,183977.5,-24977.5
+7170,planta 1,exterior,2,93.0,True,False,Ventas,ciudad lineal,278000,301239.2,-23239.20000000001
+11433,planta 1,exterior,3,80.0,False,False,Numancia,puente-de-vallecas,165000,169855.95,-4855.950000000012
+609,bajo,exterior,3,93.0,True,False,Legazpi,Arganzuela,320000,376040.0,-56040.0
+10698,chalet,exterior,6,358.0,False,True,El Plantío,moncloa,849000,1893839.95,-1044839.95
+11328,planta 3,exterior,2,51.0,False,False,Portazgo,puente-de-vallecas,121800,110845.85714285714,10954.142857142855
+4424,planta 1,exterior,8,254.0,False,False,Huertas-Cortes,centro,1050000,1208920.0,-158920.0
+10918,planta 3,exterior,3,97.0,True,True,Valdezarza,moncloa,300000,359713.99,-59713.98999999999
+11202,planta 1,exterior,3,90.0,False,False,Palomeras Bajas,puente-de-vallecas,195000,166388.66666666666,28611.333333333343
+14860,planta 3,exterior,3,119.0,True,True,El Cañaveral,vicalvaro,353900,359224.0,-5324.0
+8863,bajo,exterior,4,125.0,True,False,Pinar del Rey,hortaleza,325000,368187.3766666667,-43187.37666666671
+12137,planta 2,exterior,3,83.0,True,False,Niño Jesús,retiro,615000,472304.56666666665,142695.43333333335
+6950,planta 7,interior,4,101.0,True,False,Trafalgar,chamberi,698000,629617.0,68383.0
+11516,bajo,exterior,2,53.0,True,True,San Diego,puente-de-vallecas,239000,273160.0,-34160.0
+254,bajo,interior,1,60.0,True,False,Acacias,Arganzuela,240000,245443.3333333333,-5443.333333333314
+4109,planta 1,exterior,3,83.0,True,False,Palacio,centro,359000,401892.5833333334,-42892.58333333337
+11479,bajo,exterior,1,51.0,True,False,Entrevías,puente-de-vallecas,105000,95897.5,9102.5
+13075,planta 2,exterior,3,64.0,False,False,Hellín,san-blas,120000,142012.09909523808,-22012.09909523808
+11736,planta 5,exterior,3,59.0,False,False,Portazgo,puente-de-vallecas,97000,122948.8,-25948.800000000003
+3640,planta 2,exterior,1,59.0,True,False,Vista Alegre,carabanchel,135000,144533.67,-9533.670000000013
+2879,planta 2,exterior,2,114.0,True,True,San Isidro,carabanchel,285000,285000.0,0.0
+8477,planta 8,exterior,2,57.0,True,False,Pilar,fuencarral,269000,211960.0,57040.0
+2474,planta 3,exterior,3,160.0,True,False,Lista,barrio de salamanca,970000,992810.0,-22810.0
+9791,planta 16,exterior,4,140.0,True,False,Puerta del Ángel,latina,890000,396851.49,493148.51
+9436,planta 1,exterior,1,67.0,True,False,Sanchinarro,hortaleza,250000,287909.44,-37909.44
